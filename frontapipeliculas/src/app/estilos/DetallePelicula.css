@@ -1,0 +1,17 @@
+.DivMainDetalle{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.DivMainDetalle > div{
+    flex-basis: 33%;
+}
+
+.DivDetalleDetalle{
+flex-basis: 25%;
+}
+
+.DivDatosDetalle{
+    display: flex;
+    justify-content: space-evenly;
+}

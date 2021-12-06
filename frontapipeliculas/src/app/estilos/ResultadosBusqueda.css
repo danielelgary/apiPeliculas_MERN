@@ -1,0 +1,16 @@
+.divBusqueda input{
+    width: 100%;
+    line-height: 40px;
+    font-size: 22px;
+}
+
+.divResultados{
+    display: flex;
+    justify-content: space-evenly; /* Distribucion equitativa    */
+    flex-wrap: wrap; /* Pasa objetos de linea si no cabe en la linea donde esta  */
+}
+
+/* > * -> selecciona todos sus hijos  */
+.divResultados > * {
+    flex-basis: 30%;
+}

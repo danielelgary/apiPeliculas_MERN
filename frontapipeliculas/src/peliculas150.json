@@ -1,0 +1,5806 @@
+[{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc2"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "A.C.",
+      "apellido": "Abadie"
+    },
+    {
+      "nombre": "Gilbert",
+      "apellido": "Billy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjE5NzYtYTYyNS00MDVmLWIwYjgtMmYwYWIxZDYyNzU2XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-G",
+  "titulo": "The Great Train Robbery",
+  "tipo": "movie",
+  "ano": "1903",
+  "generos": [
+    "Cortometraje",
+    "Viejo oeste"
+  ],
+  "rating": "7.4",
+  "sinopsis": "Among the earliest existing films in American cinema - notable as the first film that presented a narrative story to tell - it depicts a group of cowboy outlaws who hold up a train and rob the passengers. They are then pursued by a Sheriff's posse. Several scenes have color included - all hand tinted.",
+  "directores": [
+    "Edwin S. Porter"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc3"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Martin",
+      "apellido": "Fuller"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTMzMDcxMjgyNl5BMl5BanBnXkFtZTcwOTgxNjg4Mg@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Land Beyond the Sunset",
+  "tipo": "movie",
+  "ano": "1912",
+  "generos": [
+    "Cortometraje",
+    "Drama",
+    "Fantasía"
+  ],
+  "rating": "7.1",
+  "sinopsis": "Thanks to the Fresh Air Fund, a slum child escapes his drunken mother for a day's outing in the country. Upon arriving, he and the other children are told a story about a mythical land of no pain. Rather then return to the slum at day's end, the lad seeks to journey to that beautiful land beyond the sunset.",
+  "directores": [
+    "Harold M. Shaw"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc4"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Winsor",
+      "apellido": "McCay"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzg2NjNhNTctMjUxMi00ZWU4LWI3ZjYtNTI0NTQxNThjZTk2XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Winsor McCay, the Famous Cartoonist of the N.Y. Herald and His Moving Comics",
+  "tipo": "movie",
+  "ano": "1911",
+  "generos": [
+    "Animación",
+    "Cortometraje",
+    "Comedia"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Cartoonist Winsor McCay agrees to create a large set of drawings that will be photographed and made into a motion picture. The job requires plenty of drawing supplies, and the cartoonist must also overcome some mishaps caused by an assistant. Finally, the work is done, and everyone can see the resulting animated picture.",
+  "directores": [
+    "Winsor McCay",
+    "J. Stuart Blackton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc5"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Jane",
+      "apellido": "Gail"
+    },
+    {
+      "nombre": "Ethel",
+      "apellido": "Grandin"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzk0YWQzMGYtYTM5MC00NjM2LWE5YzYtMjgyNDVhZDg1N2YzXkEyXkFqcGdeQXVyMzE0MjY5ODA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-PG",
+  "titulo": "Traffic in Souls",
+  "tipo": "movie",
+  "ano": "1913",
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "directores": [
+    "George Loane Tucker"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc6"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Winsor",
+      "apellido": "McCay"
+    },
+    {
+      "nombre": "George",
+      "apellido": "McManus"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzI4ODQ3NF5BMl5BanBnXkFtZTgwNzY5NzMwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Gertie the Dinosaur",
+  "tipo": "movie",
+  "ano": "1914",
+  "generos": [
+    "Animación",
+    "Cortometraje",
+    "Comedia"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Winsor Z. McCay bets another cartoonist that he can animate a dinosaur. So he draws a big friendly herbivore called Gertie. Then he get into his own picture. Gertie walks through the picture, eats a tree, meets her creator, and takes him carefully on her back for a ride.",
+  "directores": [
+    "Winsor McCay"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc7"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Stanley",
+      "apellido": "Hunt"
+    },
+    {
+      "nombre": "Sarah",
+      "apellido": "Hunt"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE3MjAyNzM5NV5BMl5BanBnXkFtZTgwMjA5OTg5NjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "In the Land of the Head Hunters",
+  "tipo": "movie",
+  "ano": "1914",
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Edward S. Curtis"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc8"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Pearl",
+      "apellido": "White"
+    },
+    {
+      "nombre": "Crane",
+      "apellido": "Wilbur"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzgxODk1Mzk2Ml5BMl5BanBnXkFtZTgwMDg0NzkwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Perils of Pauline",
+  "tipo": "movie",
+  "ano": "1914",
+  "generos": [
+    "Acción"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Young Pauline is left a lot of money when her wealthy uncle dies. However, her uncle's secretary has been named as her guardian until she marries, at which time she will officially take possession of her inheritance. Meanwhile, her \"guardian\" and his confederates constantly come up with schemes to get rid of Pauline so that he can get his hands on the money himself.",
+  "directores": [
+    "Louis J. Gasnier",
+    "Donald MacKenzie"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fc9"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Fannie",
+      "apellido": "Ward"
+    },
+    {
+      "nombre": "Sessue",
+      "apellido": "Hayakawa"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNTM5M15BMl5BanBnXkFtZTgwMzgwNjQ1MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Cheat",
+  "tipo": "movie",
+  "ano": "1915",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "6.5",
+  "sinopsis": "Edith Hardy uses charity funds for Wall Street investments in hopes of buying some new gowns. She loses all the money and borrows from wealthy oriental Tori. When her husband gives her the amount she borrowed, Tori won't take it back, branding her shoulder with a Japanese sign of his ownership. She shoots him. Her husband takes the blame. In court Edith reveals all to an angry mob.",
+  "directores": [
+    "Cecil B. DeMille"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fca"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "John",
+      "apellido": "McCann"
+    },
+    {
+      "nombre": "James",
+      "apellido": "Marcus"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDkxZGU4NmMtODJlNy00YzA2LTg4ZGMtNGFlNzAyNzcxOTM1XkEyXkFqcGdeQXVyOTM3MjcyMjI@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Regeneration",
+  "tipo": "movie",
+  "ano": "1915",
+  "generos": [
+    "Biografía",
+    "Crimen",
+    "Drama"
+  ],
+  "rating": "6.8",
+  "sinopsis": "At 10 years old, Owens becomes a ragged orphan when his sainted mother dies. The Conways, who are next door neighbors, take Owen in, but the constant drinking by Jim soon puts Owen on the street. By 17, Owen learns that might is right. By 25, Owen is the leader of his own gang who spend most of their time gambling and drinking. But Marie comes into the gangster area of town and everything changes for Owen as he falls for Marie. But he cannot tell her so, so he comes to her settlement to find education and inspiration. But soon, his old way of life will rise to confront him again.",
+  "directores": [
+    "Raoul Walsh"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fcb"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "apellido": "Musidora"
+    },
+    {
+      "nombre": "èdouard",
+      "apellido": "Mathè"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTY3NDIzNl5BMl5BanBnXkFtZTgwNTIyODg5MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Les vampires",
+  "tipo": "movie",
+  "ano": "1915",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Crimen"
+  ],
+  "rating": "6.8",
+  "sinopsis": "An intrepid reporter and his loyal friend battle a bizarre secret society of criminals known as The Vampires.",
+  "directores": [
+    "Louis Feuillade"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fcc"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Charles",
+      "apellido": "Chaplin"
+    },
+    {
+      "nombre": "Edna",
+      "apellido": "Purviance"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTNkYWU5YjMtMjY2My00MDI4LTlmYzQtNTFkNTFjM2E1MTVlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Immigrant",
+  "tipo": "movie",
+  "ano": "1917",
+  "generos": [
+    "Cortometraje",
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Charlie is on his way to the USA. He wins in a card game, puts the money in Edna's bag (she and her sick mother have been robbed of everything). When he retrieves a little for himself he is accused of being a thief. Edna clears his name. Later, broke, Charlie finds a coin and goes into a restaurant. There he finds Edna, whose mother has died, and asks her to join him. When he reaches for the coin to pay for their meals it is missing (it has fallen through a hole in his pocket).",
+  "directores": [
+    "Charles Chaplin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fcd"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Tula",
+      "apellido": "Belle"
+    },
+    {
+      "nombre": "Robin",
+      "apellido": "Macdougall"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMThmNzItMTZlMS00YzJkLTk1MzktYzIyMzllOGFmZmRlXkEyXkFqcGdeQXVyMzE0MjY5ODA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Blue Bird",
+  "tipo": "movie",
+  "ano": "1918",
+  "generos": [
+    "Fantasía"
+  ],
+  "rating": "6.6",
+  "sinopsis": "Two peasant children, Mytyl and Tyltyl, are led by Berylune, a fairy, to search for the Blue Bird of Happiness. Berylune gives Tyltyl a cap with a diamond setting, and when Tyltyl turns the diamond, the children become aware of and conversant with the souls of a Dog and Cat, as well as of Fire, Water, Bread, Light, and other presumably inanimate things. The troupe thus sets off to find the elusive Blue Bird of Happiness.",
+  "directores": [
+    "Maurice Tourneur"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fce"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Mildred",
+      "apellido": "Davis"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzE1OWRlNDgtMTllNi00NTZiLWIyNTktYTk0MDY1ZWUwYTc5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-G",
+  "titulo": "From Hand to Mouth",
+  "tipo": "movie",
+  "ano": "1919",
+  "generos": [
+    "Comedia",
+    "Cortometraje",
+    "Acción"
+  ],
+  "rating": "7",
+  "sinopsis": "As a penniless man worries about how he will manage to eat, he is joined by a young waif and her dog, who are in the same predicament. Meanwhile, across town a dishonest lawyer is working with a gang of criminals, trying to swindle an innocent young heiress out of her inheritance. As the heiress is on her way home from the lawyer's office, she notices the young man and the waif in the midst of their latest problem with the authorities, and she rescues them. Later on, the young man will have an unexpected opportunity to repay her for her kindness.",
+  "directores": [
+    "Alfred J. Goulding",
+    "Hal Roach"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fcf"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Roy",
+      "apellido": "Brooks"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODliMjc3ODctYjhlOC00MDM5LTgzNmUtMjQ1MmViNDQ0NzlhXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "High and Dizzy",
+  "tipo": "movie",
+  "ano": "1920",
+  "generos": [
+    "Comedia",
+    "Cortometraje"
+  ],
+  "rating": "7",
+  "sinopsis": "After a long wait, a young doctor finally has a patient come to his office. She is a young woman whose father has brought her to be treated for sleep-walking, but the father becomes annoyed with the doctor, and takes his daughter away. Soon afterward, the young doctor shares in a drinking binge with another doctor who has built a still in his office. After a series of misadventures, the two of them wind up in the same hotel where the daughter and her father are staying, leading to some hazardous predicaments.",
+  "directores": [
+    "Hal Roach"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd0"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Wallace",
+      "apellido": "Beery"
+    },
+    {
+      "nombre": "Barbara",
+      "apellido": "Bedford"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJkZDU2N2ItMGNiYy00MTBmLTliOTYtNDU5NTdmMjEyMDFmXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Last of the Mohicans",
+  "tipo": "movie",
+  "ano": "1920",
+  "generos": [
+    "Aventura",
+    "Drama"
+  ],
+  "rating": "6.9",
+  "sinopsis": "As Alice and Cora Munro attempt to find their father, a British officer in the French and Indian War, they are set upon by French soldiers and their cohorts, Huron tribesmen led by the evil Magua. Fighting to rescue the women are Chingachgook and his son Uncas, the last of the Mohican tribe, and their white ally, the frontiersman Natty Bumppo, known as Hawkeye.",
+  "directores": [
+    "Clarence Brown",
+    "Maurice Tourneur"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd1"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Carl",
+      "apellido": "Miller"
+    },
+    {
+      "nombre": "Edna",
+      "apellido": "Purviance"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Kid",
+  "tipo": "movie",
+  "ano": "1921",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "rating": "8.4",
+  "sinopsis": "The opening title reads: \"A comedy with a smile--and perhaps a tear\". As she leaves the charity hospital and passes a church wedding, Edna deposits her new baby with a pleading note in a limousine and goes off to commit suicide. The limo is stolen by thieves who dump the baby by a garbage can. Charlie the Tramp finds the baby and makes a home for him. Five years later Edna has become an opera star but does charity work for slum youngsters in hope of finding her boy. A doctor called by Edna discovers the note with the truth about the Kid and reports it to the authorities who come to take him away from Charlie. Before he arrives at the Orphan Asylum Charlie steals him back and takes him to a flophouse. The proprietor reads of a reward for the Kid and takes him to Edna. Charlie is later awakened by a kind policeman who reunites him with the Kid at Edna's mansion.",
+  "directores": [
+    "Charles Chaplin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd2"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Mildred",
+      "apellido": "Davis"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjgzYzY1NjEtYWQxZS00ZjA4LWJlYmQtYzRjNTg3NjUwNDRlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Now or Never",
+  "tipo": "movie",
+  "ano": "1921",
+  "generos": [
+    "Comedia",
+    "Cortometraje"
+  ],
+  "rating": "6.8",
+  "sinopsis": "Mary is looking after a young child whose parents have little time for her. So, when Mary travels home to meet her childhood sweetheart, she takes the child with her. Meanwhile, her boyfriend has a mishap on the road, and is tricked out of his money by a tramp. When the tramp then hitches a ride on a train, the boyfriend does so as well. At the station, he meets Mary and the child, and they plan to re-board the train together. But difficulties arise when Mary sees her boss boarding the same train - and there is also the problem that her boyfriend doesn't have a ticket.",
+  "directores": [
+    "Fred C. Newmeyer",
+    "Hal Roach"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd3"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Rudolph",
+      "apellido": "Christians"
+    },
+    {
+      "nombre": "Miss",
+      "apellido": "DuPont"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDkxMTY1Nl5BMl5BanBnXkFtZTgwNDI1NDU5MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Foolish Wives",
+  "tipo": "movie",
+  "ano": "1922",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "7.3",
+  "sinopsis": "\"Count\" Karanzim, a Don Juan is with his cousins in Monte Carlo, living from faked money and the money he gets from rich ladies, who are attracted by his charmes and his title or his militaristic and aristocratic behaviour. He tries to have success with Mrs Hughes, the wife of the new US ambassador.",
+  "directores": [
+    "Erich von Stroheim"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd4"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Max",
+      "apellido": "Schreck"
+    },
+    {
+      "nombre": "Gustav",
+      "apellido": "Wangenheim"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGZmLWIxMmMtOGM2NTFiY2U3MmExXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Nosferatu",
+  "tipo": "movie",
+  "ano": "1922",
+  "generos": [
+    "Horror"
+  ],
+  "rating": "8",
+  "sinopsis": "Wisbourg, Germany based estate agent Knock dispatches his associate, Hutter, to Count Orlok's castle in Transylvania as the Count wants to purchase an isolated house in Wisbourg. They plan on selling him the one across the way from Hutter's own home. Hutter leaves his innocent wife, Ellen, with some friends while he is away. Hutter's trek is an unusual one, with many locals not wanting to take him near the castle where strange events have been occurring. Once at the castle, Hutter does manage to sell the Count the house, but he also notices and feels unusual occurrences, primarily feeling like there is a dark shadow hanging over him, even in the daytime when the Count is unusually asleep. Hutter eventually sees the Count's sleeping chamber in a crypt, and based on a book he has recently read, believes the Count is really a vampire or Nosferatu. While Hutter is trapped in the castle, the Count, hiding in a shipment of coffins, makes his way to Wisbourg, causing death along his way, which most attribute to the plague. Hutter himself tries to rush home to save his town and most importantly save Ellen from Nosferatu's imminent arrival. In Wisbourg, Ellen can feel the impending darkness as Nosferatu gets closer. But she learns that a sinless woman can sacrifice herself to kill the vampire. Will Hutter be able to save Ellen either from Nosferatu and/or her self-sacrifice?",
+  "directores": [
+    "F.W. Murnau"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd5"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Wallace",
+      "apellido": "Beery"
+    },
+    {
+      "nombre": "Sam",
+      "apellido": "Grasse"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzRmMWIyNDEtYTRmYS00Y2FlLWJhOGUtYWZmNTI1YzZjOTc2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Robin Hood",
+  "tipo": "movie",
+  "ano": "1922",
+  "generos": [
+    "Aventura",
+    "Romance",
+    "Familia"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Amid big-budget medieval pageantry, King Richard goes on the Crusades leaving his brother Prince John as regent, who promptly emerges as a cruel, grasping, treacherous tyrant. Apprised of England's peril by message from his lady-love Marian, the dashing Earl of Huntingdon endangers his life and honor by returning to oppose John, but finds himself and his friends outlawed, and Marian apparently dead. Enter Robin Hood, acrobatic champion of the oppressed, laboring to set things right through swash buckling feats and cliffhanging perils!",
+  "directores": [
+    "Allan Dwan"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd6"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Joe",
+      "apellido": "Roberts"
+    },
+    {
+      "nombre": "Ralph",
+      "apellido": "Bushman"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTNjZjYxMDQtMTViNi00NTg0LWFmZTYtNTdiMzUxZWU3ZTU2XkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Our Hospitality",
+  "tipo": "movie",
+  "ano": "1923",
+  "generos": [
+    "Comedia",
+    "Familia"
+  ],
+  "rating": "7.9",
+  "sinopsis": "After her husband John McKay is killed in an ongoing feud with the Canfield family, a woman takes her baby boy Willie to her sister's house in New York hoping he will never know of the feud with the Canfields. Twenty years later Willie is a grown man and he receives a letter saying he has inherited his father's estate and must travel to his family home to take possession. On the train there he meets a beautiful young woman and falls in love only to learn that she's a Canfield. He accepts her invitation to dinner and quickly realizes that the Canfield men won't kill him while he's in their home. His plan to stay there as a permanent guest is short-lived and the Canfields are soon after him.",
+  "directores": [
+    "John G. Blystone",
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd7"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Mildred",
+      "apellido": "Davis"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjkyOTg2MzE1MV5BMl5BanBnXkFtZTgwMDUzODYwMjE@._V1._CR32.883331298828125,11.533340454101562,508,1024_SX89_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Safety Last!",
+  "tipo": "movie",
+  "ano": "1923",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Suspenso"
+  ],
+  "rating": "8.3",
+  "sinopsis": "In 1922, the country boy Harold says goodbye to his mother and his girlfriend Mildred in the train station and leaves Great Bend expecting to be successful in the big city. Harold promises to Mildred to get married with her as soon as he \"make good\". Harold shares a room with his friend \"Limpy\" Bill and he finally gets a job as salesman in the De Vore Department Store. However, he pawns Bill's phonograph, buys a lavaliere and writes to Mildred telling that he is a manager of De Vore. One day, Harold sees an old friend from Great Bend that is a policeman and when he meets his friend Bill, he asks Bill to push the policeman over him and make him fall down. However Bill pushes the wrong policeman that chases him, but he escapes climbing up a building. Out of the blue, Mildred is convinced by her mother to visit Harold without previous notice and he pretends to be the manager of De Vore. When Harold overhears the general manager telling that he would give one thousand dollars to to anyone that could promote De Vore attracting people to the department store, he offers five hundred dollars to Bill to climb up the Bolton Building. However things go wrong when the angry policeman decides to check whether the mystery man that will climb up the building is the one who pushed him over on the floor.",
+  "directores": [
+    "Fred C. Newmeyer",
+    "Sam Taylor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd8"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Lon",
+      "apellido": "Chaney"
+    },
+    {
+      "nombre": "Norma",
+      "apellido": "Shearer"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTEwMTA1OTc1NF5BMl5BanBnXkFtZTgwMzU1NjkwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "He Who Gets Slapped",
+  "tipo": "movie",
+  "ano": "1924",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspenso"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Story of an inventor who, suffering betrayal in life, makes a career of it by becoming a clown whose act consists of getting slapped by all the other clowns. He falls in love with another circus performer, and those who betrayed him enter his life yet again.",
+  "directores": [
+    "Victor Sjèstrèm"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fd9"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "George",
+      "apellido": "OBrien"
+    },
+    {
+      "nombre": "Madge",
+      "apellido": "Bellamy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGYwNjkxMmQtYzI1My00YzA4LTg2MGMtMjlmZjIzMWMwZDE1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Iron Horse",
+  "tipo": "movie",
+  "ano": "1924",
+  "generos": [
+    "Viejo oeste"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Springfield, Illinois. Brandon, a surveyor, dreams of building a railway to the west, but Marsh, a contractor, is sceptical. Abraham Lincoln looks on as their children, Davy Brandon and Miriam Marsh, play together. Brandon sets off with Davy to survey a route. They discover a new pass which will shave 200 miles off the expected distance, but they are set upon by a party of Cheyenne. One of them, a white renegade with only two fingers on his right hand, kills Brandon and scalps him. Davy buries his father... Years pass. It is 1862 and Lincoln signs the bill authorizing construction of the Union Pacific and Central Pacific railways. Marsh is principal contractor and Miriam is engaged to Jesson, the chief engineer... Crews of Chinese, Italians, and Irish work to build the railway while resisting Indian attack. When the pay train is delayed by Indian ambush, the Italians go on strike. Miriam persuades them to return to work... Marsh needs to find a shortcut through the Black Hills. To finish on time, he needs to shorten the route by 200 miles. Bauman, the biggest land owner, wants the route to stay the same - through his land. Marsh has entrusted Jesson with finding the new route. Bauman has Ruby, a saloon girl, persuade Jesson to do otherwise... Davy, now a pony express rider, recalls his father's discovery. He sets off to find the pass. He goes alone, except for Jesson...",
+  "directores": [
+    "John Ford"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fda"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Frank",
+      "apellido": "Mayo"
+    },
+    {
+      "nombre": "Virginia",
+      "apellido": "Valli"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTYwMTcwM15BMl5BanBnXkFtZTcwNDEyNTkzMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Wild Oranges",
+  "tipo": "movie",
+  "ano": "1924",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.1",
+  "sinopsis": "Millie Stope lives with her grandfather on a remote island. Her grandfather fled there for political reasons. But they're not alone. An escaped prisoner, Nicholas, is terrorizing them, and further more, he's interested in Mllie. John Woolfolk has lost his wife in an accident and tries to forget by sailing in his yacht aimlessly on the ocean. By chance he drops anchor in a bay of that island. He soon finds out that something is wrong on that island, and furthermore, he falls in love with Millie, who sees in him a chance to get off that island. But Nicholas has threatened her with rape and murder if she tries to escape, and he has found out about her plans...",
+  "directores": [
+    "King Vidor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fdb"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Aleksandr",
+      "apellido": "Antonov"
+    },
+    {
+      "nombre": "Vladimir",
+      "apellido": "Barsky"
+    }
+  ],
+  "paises": [
+    "Soviet Union"
+  ],
+  "idiomas": [
+    "Russian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTEyMTQzMjQ0MTJeQTJeQWpwZ15BbWU4MDcyMjg4OTEx._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Battleship Potemkin",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Historia",
+    "Guerra"
+  ],
+  "rating": "8",
+  "sinopsis": "Based on the historical events the movie tells the story of a riot at the battleship Potemkin. What started as a protest strike when the crew was given rotten meat for dinner ended in a riot. The sailors raised the red flag and tried to ignite the revolution in their home port Odessa.",
+  "directores": [
+    "Sergei M. Eisenstein"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fdc"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Jobyna",
+      "apellido": "Ralston"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGJmNTE4MGYtZWY2My00YmUzLWFiOWUtY2VkNmEzZGQ1ZGViXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Freshman",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Deporte"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Harold Lamb's dream is to go to college and become the most popular student on campus, much like the character Speedy played by actor Lester Laurel in the movie \"The College Hero\". Accepted into Tate College, Harold plans on emulating Speedy, including giving himself the nickname Speedy, to gain that popularity, not realizing that if he does so, he will be more the buffoon than the hero. To be the most popular student, he will have to outdo the current most popular student, football captain Chet Trask. Unaware Speedy's task is made all the more difficult when one of the upperclassmen, seeing how hard Speedy is trying to impress, does whatever he can to make Speedy look all the more ridiculous, all the while Speedy believing he is achieving his dream. The bully's efforts are made all the more easy as Speedy is able to buy his way to seeming popularity with the small nest egg he was able to accumulate from work. The one thing that Speedy may not be able to buy is his way onto the football team, which he is convinced is the only surefire way to becoming the campus hero, despite not realizing that he truly is not the football type. While Speedy remains unaware how he truly looks to his classmates, Peggy, the daughter of the owner of the rooming house where he is staying, is aware, she who is in love with him, and he with her. The love of a good woman may be able to provide Speedy with a clearer understanding of who he truly should be to impress, and/or get his mind focused on other things other than being everyone's best friend.",
+  "directores": [
+    "Fred C. Newmeyer",
+    "Sam Taylor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fdd"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Howard",
+      "apellido": "Truesdale"
+    },
+    {
+      "nombre": "Kathleen",
+      "apellido": "Myers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MDQzODIwOV5BMl5BanBnXkFtZTgwNTQ3NTY2MzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Go West",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Comedia",
+    "Viejo oeste"
+  ],
+  "rating": "7.3",
+  "sinopsis": "A young man who doesn't find a job in his small hometown, tries his luck in New York, but is overwelmed by the life of the city, so decides to try his luck somewhere else after a only a few minutes in New York. He falls off a train near a ranch, where he tries his luck as a cowbowy, being in his own way very sucessful. But he shows what he can do when the farm has to bring a 100 head of cattle to the slaughterhouses of Los Angeles to avoid going bankrupt, against the will of his neighbour who wants a better price. After a shoot-out with the neighbour's men he's the only person on a Los Angeles bound train with 1000 cows....",
+  "directores": [
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fde"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Zasu",
+      "apellido": "Pitts"
+    },
+    {
+      "nombre": "Gibson",
+      "apellido": "Gowland"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWU0OWJmZmEtODZlMi00MmJjLWEwYWItNDg3OGNkM2Q0MTgzXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Greed",
+  "tipo": "movie",
+  "ano": "1924",
+  "generos": [
+    "Drama",
+    "Suspenso"
+  ],
+  "rating": "7.9",
+  "sinopsis": "John McTeague was a simple slow man who became a dentist after working at the Big Dipper Gold Mine. He is now being hunted in Death Valley by his ex-best friend Marcus and the law. His lot was cast the day that he meet his future wife Trina in his office. She was with Marcus and she bought a lottery ticket. Well Mac fell for her and Marcus stepped aside. When Mac and Trina married, she won the Lottery for $5000 and became obsessive about the money in gold. Marcus is steamed as he stepped aside and now she is rich so he has the law shut down Mac as he has no official schooling for his dentistry. Trina fearful that they will take her gold away sells everything and takes all Mac earns when he is working. She adds to her stash of gold as they both live as paupers. When Mac has no job and no money, he leaves and Trina moves. Driven to desperation at being poor and hungry he finds Trina and demands the gold.",
+  "directores": [
+    "Erich von Stroheim"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fdf"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "5"
+  },
+  "actores": [
+    {
+      "nombre": "Charles",
+      "apellido": "Chaplin"
+    },
+    {
+      "nombre": "Mack",
+      "apellido": "Swain"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Gold Rush",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "8.3",
+  "sinopsis": "A lone prospector ventures into Alaska looking for gold. He gets mixed up with some burly characters and falls in love with the beautiful Georgia. He tries to win her heart with his singular charm.",
+  "directores": [
+    "Charles Chaplin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe0"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Ronald",
+      "apellido": "Colman"
+    },
+    {
+      "nombre": "May",
+      "apellido": "McAvoy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDUyYzY0ZDAtMDYwYS00ZjExLTk4ZDItYjY4OGE5M2Y5ZWViXkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Lady Windermere's Fan",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Mrs Erlynne, the mother of Lady Windermere - her daughter does not know about her - wants to be introduced in society, so that she can marry Lord Augustus Lorton. Lord Windermere, who helped her with a cheque, invites her to his wifes birthday-party, but Lady Windermere thinks, she has reason to be jealous, so she decides to leave her husband and go to Lord Darlington, who is pining for her. Mrs Erlynne finds this out and tries to prevent her of this mistake, but her daughter leaves her fan in Lord Darlingtons residence.",
+  "directores": [
+    "Ernst Lubitsch"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe1"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Buster",
+      "apellido": "Keaton"
+    },
+    {
+      "nombre": "T",
+      "apellido": "Barnes"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTIwMjYzN15BMl5BanBnXkFtZTgwOTExMTYxMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Seven Chances",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Romance"
+  ],
+  "rating": "8",
+  "sinopsis": "Financial broker Jimmie Shannon is nearly bankrupt when an attorney presents grandfather's will leaving him seven million dollars. In order to inherit the money Jimmie must marry before 7 pm on his 27th birthday - today!",
+  "directores": [
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe2"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Buster",
+      "apellido": "Keaton"
+    },
+    {
+      "nombre": "Snitz",
+      "apellido": "Edwards"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDA5NTgzNV5BMl5BanBnXkFtZTgwNjk0NzE2MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Battling Butler",
+  "tipo": "movie",
+  "ano": "1926",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "7.2",
+  "sinopsis": "Alfred's father wants him to make of a man of himself so sends him off on a hunting and fishing trip. He doesn't catch or shoot anything, but he does fall in love with a mountain girl. When her father and brothers laugh at this they are informed that he is Alfred \"Battling\" Butler, the championship fighter. From there on the masquerade must be maintained.",
+  "directores": [
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe3"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Ramon",
+      "apellido": "Novarro"
+    },
+    {
+      "nombre": "Francis",
+      "apellido": "Bushman"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNzIwNDMwMl5BMl5BanBnXkFtZTgwNjExMTYxMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Ben-Hur: A Tale of the Christ",
+  "tipo": "movie",
+  "ano": "1925",
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "8.1",
+  "sinopsis": "Erstwhile childhood friends, Judah Ben-Hur and Messala meet again as adults, this time with Roman officer Messala as conqueror and Judah as a wealthy, though conquered, Israelite. A slip of a brick during a Roman parade causes Judah to be sent off as a galley slave, his property confiscated and his mother and sister imprisoned. Years later, as a result of his determination to stay alive and his willingness to aid his Roman master, Judah returns to his homeland an exalted and wealthy Roman athlete. Unable to find his mother and sister, and believing them dead, he can think of nothing else than revenge against Messala.",
+  "directores": [
+    "Fred Niblo",
+    "Charles Brabin",
+    "Christy Cabanne",
+    "J.J. Cohn",
+    "Rex Ingram"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe4"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Jobyna",
+      "apellido": "Ralston"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMTEwMTIzNl5BMl5BanBnXkFtZTgwMzYzODYwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "For Heaven's Sake",
+  "tipo": "movie",
+  "ano": "1926",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Romance"
+  ],
+  "rating": "7.6",
+  "sinopsis": "The Uptown Boy, J. Harold Manners (Lloyd) is a millionaire playboy who falls for the Downtown Girl, Hope (Ralston) who works in Brother Paul's (Weigel) mission. In order to build up attendance, and win Hope's attention, Harold runs through town causing trouble, and winds up with a crowd chasing him right into the mission. He eventually wins the girl and they marry, but not without some interference from his high-brow friends.",
+  "directores": [
+    "Sam Taylor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe5"
+  },
+  "nominaciones": {
+    "cantidad": "4",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Alfred",
+      "apellido": "Abel"
+    },
+    {
+      "nombre": "Gustav",
+      "apellido": "Frèhlich"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Metropolis",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Drama",
+    "Ciencia ficción"
+  ],
+  "rating": "8.3",
+  "sinopsis": "Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of children, she and the children who quickly disappear. Trying to follow her, he, oblivious to such, is horrified to find an underground world of workers, apparently who run the machinery which keeps the above ground Utopian world functioning. One of the few people above ground who knows about the world below is Freder's father, Joh Fredersen, who is the founder and master of Metropolis. Freder learns that the woman is Maria, who espouses the need to join the \"hands\" - the workers - to the \"head\" - those in power above - by a mediator or the \"heart\". Freder wants to help the plight of the workers in the want for a better life. But when Joh learns of what Maria is espousing and that Freder is joining their cause, Joh, with the assistance of an old colleague and now nemesis named Rotwang, an inventor, works toward quashing a supposed uprising, with Maria as the center of their plan. However, Joh is unaware that Rotwang has his own agenda. But if any of these plans includes the shut down of the machines, total anarchy could break loose both above ground and below.",
+  "directores": [
+    "Fritz Lang"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe6"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Rudolph",
+      "apellido": "Valentino"
+    },
+    {
+      "nombre": "Vilma",
+      "apellido": "Bènky"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzY0MWQwNjQtMzg1YS00ZWQzLTlhMWMtNTU2ZTUxZDZlNTRlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Son of the Sheik",
+  "tipo": "movie",
+  "ano": "1926",
+  "generos": [
+    "Aventura",
+    "Drama"
+  ],
+  "rating": "7.5",
+  "sinopsis": "Men and women, fathers and children. Ahmed, son of Diana and Sheik Ahmed Ben Hassan, falls in love with Yasmin, a dancing girl who fronts her father's gang of mountebanks. Among the cutthroats is Ghobah, a villainous Moor to whom Yasmin is promised. In ruins near Touggourt, the city where Yasmin dances, she and Ahmed meet secretly until one night when her father and the gang capture the son of the sheik, torture him, and hold him for ransom. Will Ahmed believe that Yasmin set him up for capture? Even if true love finds a way through webs of deceit, what will the vigorous and imposing sheik say about his son consorting with a dancing girl?",
+  "directores": [
+    "George Fitzmaurice"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe7"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Harry",
+      "apellido": "Langdon"
+    },
+    {
+      "nombre": "Priscilla",
+      "apellido": "Bonner"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjE0OTQ2NF5BMl5BanBnXkFtZTcwNTUxMDIzMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Strong Man",
+  "tipo": "movie",
+  "ano": "1926",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "6.8",
+  "sinopsis": "A meek Belgian soldier (Harry Langdon) fighting in World War I receives penpal letters and a photo from \"Mary Brown\", an American girl he has never met. He becomes infatuated with her by long distance. After the war, the young Belgian journeys to America as assistant to a theatrical \"strong man\", Zandow the Great (Arthur Thalasso). While in America, he searches for Mary Brown... and he finds her, just as word comes that Zandow is incapacitated and the little nebbish must go on stage in his place.",
+  "directores": [
+    "Frank Capra"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe8"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Anne",
+      "apellido": "Cornwall"
+    },
+    {
+      "nombre": "Flora",
+      "apellido": "Bramley"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MDEwODczM15BMl5BanBnXkFtZTgwMjU2NjgyMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "College",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Deporte"
+  ],
+  "rating": "7.2",
+  "sinopsis": "Ronald's high school valedictory address praises books and condemns sports. His girlfriend Mary condemns his attitude. He fears losing her to rival Jeff, decides to go to college and pay more attention to sports.",
+  "directores": [
+    "James W. Horne",
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fe9"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Buster",
+      "apellido": "Keaton"
+    },
+    {
+      "nombre": "Marion",
+      "apellido": "Mack"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The General",
+  "tipo": "movie",
+  "ano": "1926",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Comedia"
+  ],
+  "rating": "8.3",
+  "sinopsis": "Johnnie loves his train (\"The General\") and Annabelle Lee. When the Civil War begins he is turned down for service because he's more valuable as an engineer. Annabelle thinks it's because he's a coward. Union spies capture The General with Annabelle on board. Johnnie must rescue both his loves.",
+  "directores": [
+    "Clyde Bruckman",
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fea"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Al",
+      "apellido": "Jolson"
+    },
+    {
+      "nombre": "May",
+      "apellido": "McAvoy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTUxNTk0MjEtZjQ5Yi00ODBhLTlkY2YtMDJhOWZmNDM1YWJkXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Jazz Singer",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Drama",
+    "Musical",
+    "Musicalal"
+  ],
+  "rating": "6.9",
+  "sinopsis": "Cantor Rabinowitz is concerned and upset because his son Jakie shows so little interest in carrying on the family's traditions and heritage. For five generations, men in the family have been cantors in the synagogue, but Jakie is more interested in jazz and ragtime music. One day, they have such a bitter argument that Jakie leaves home for good. After a few years on his own, now calling himself Jack Robin, he gets an important opportunity through the help of well-known stage performer Mary Dale. But Jakie finds that in order to balance his career, his relationship with Mary, and his memories of his family, he will be forced to make some difficult choices.",
+  "directores": [
+    "Alan Crosland"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75feb"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Jobyna",
+      "apellido": "Ralston"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjk2MTU1NTU0M15BMl5BanBnXkFtZTgwMDc1Njg1NzM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Kid Brother",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia"
+  ],
+  "rating": "7.6",
+  "sinopsis": "The most important family in Hickoryville is (naturally enough) the Hickorys, with sheriff Jim and his tough manly sons Leo and Olin. The timid youngest son, Harold, doesn't have the muscles to match up to them, so he has to use his wits to win the respect of his strong father and also the love of beautiful Mary.",
+  "directores": [
+    "Ted Wilde",
+    "J.A. Howe",
+    "Harold Lloyd",
+    "Lewis Milestone"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fec"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "6"
+  },
+  "actores": [
+    {
+      "nombre": "Janet",
+      "apellido": "Gaynor"
+    },
+    {
+      "nombre": "Charles",
+      "apellido": "Farrell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "7th Heaven",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.8",
+  "sinopsis": "In Paris, in the early years of the twentieth century, lives Chico, a sewer worker with lofty aspirations. One night, Chico saves a young prostitute named Diane from the murderous rage of her tyrannical sister. Despite her lifestyle, Diane is honest and innocent, and when the police arrive to arrest her, Chico spontaneously claims that she is his wife. Forced to maintain this facade or else both face prison sentences, Chico reluctantly allows Diane to live with him -- and in the process, love gradually blossoms between them. However, the dark spectre of World War I has begun to descend upon France, and Chico and Diane cannot help but fall under its shadow.",
+  "directores": [
+    "Frank Borzage"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fed"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Lon",
+      "apellido": "Chaney"
+    },
+    {
+      "nombre": "Norman",
+      "apellido": "Kerry"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MjQ0MzYzMF5BMl5BanBnXkFtZTgwNDg1NDM4MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Unknown",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Drama",
+    "Horror",
+    "Romance"
+  ],
+  "rating": "7.9",
+  "sinopsis": "Alonzo is an armless knife thrower and gun shooter for a circus---or so he appears. He is actually a burglar with his arms intact. He and his accomplice, Cojo (a little person), are hiding from the police, and Alonzo views his disguise as perfect, especially since it keeps from view an unusual deformity of his left hand that would immediately give him away as the burglar. Nanon, the daughter of the circus owner, is the target in his act. Although Alonzo is in love with her, Nanon's father despises him. Nanon is attracted to Malabar, the circus strong man, but she is also repulsed by his uninhibited sexual advances and desire to touch and hold her. Apparently her phobia extends to the touch of any man. Alonzo feeds her fears in the hopes that Nanon will fall in love with him since he is \"armless.\" Because Zanzi discovers Alonzo really has arms, Alonzo kills him, but Nanon witnesses the killing without seeing Alonzo's face; however, she does see the telltale deformity of his left hand. As Alonzo continues to plot to steal Nanon away from Mirabar, Cojo makes him realize that she will hate him once she discovers he has arms---and the deformity showing that he is her father's murderer. Alonzo decides to have his left arm amputated, which he succeeds in doing through blackmailing a surgeon. He thinks Nanon will forgive him for hiding the fact that he has ONE arm. While Alonzo is recuperating from the surgery, Nanon gets over her fear of being touched and falls completely in love with Mirabar. Discovering this upon his return, Alonzo hatches a scheme to kill Mirabar as he attempts his latest, most daring stunt. Although the stunt goes horribly awry, it is Alonzo who gets killed.",
+  "directores": [
+    "Tod Browning"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fee"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "5"
+  },
+  "actores": [
+    {
+      "nombre": "Clara",
+      "apellido": "Bow"
+    },
+    {
+      "nombre": "Charles",
+      "apellido": "Rogers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjgzZmMtZmIyYy00YTkwLTgyOWEtOTVlNTFkZmMzNTk3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "PG-13",
+  "titulo": "Wings",
+  "tipo": "movie",
+  "ano": "1927",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Guerra"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Two young men fall in love with the same same girl. After the US enters WWI, both join the Air Corps and become aces. They remain friends, but the relation to the girl threatens their friendship.",
+  "directores": [
+    "William A. Wellman",
+    "Harry d'Abbadie d'Arrast"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fef"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Buster",
+      "apellido": "Keaton"
+    },
+    {
+      "nombre": "Marceline",
+      "apellido": "Day"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjYxMzBkYzUtZTQ5Yi00YTkxLTk5NjAtZWQxODk1YWE3YzBhXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Cameraman",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Comedia",
+    "Romance",
+    "Familia"
+  ],
+  "rating": "8.3",
+  "sinopsis": "After becoming infatuated with a pretty office worker for MGM Newsreels, Buster trades in his tintype operation for a movie camera and sets out to impress the girl (and MGM) with his work.",
+  "directores": [
+    "Edward Sedgwick",
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff0"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Louise",
+      "apellido": "Brooks"
+    },
+    {
+      "nombre": "Fritz",
+      "apellido": "Kortner"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NTExNTgxMl5BMl5BanBnXkFtZTgwMzc1MTA5MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Pandora's Box",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "8",
+  "sinopsis": "Lulu is a beautiful young Jewish woman who can seemingly work her charms on all of the men around her. She is currently being kept by the rich financier Dr. Ludwig Schon. She is just a plaything however and he is engaged to be married to Charlotte, a woman of his own class. He arranges for Lulu to appear in his son Alwa's musical revue and he too falls for all of her charms. When Dr. Schon and his fiancèe go to the theater, Lulu ensures that he is put in a compromising situation and the elder Schon feels he now must marry her, knowing full well it will ruin his reputation. On his wedding day, Dr. Schon reaches his breaking. His actions cost him his life however and Lulu is convicted of manslaughter. She escapes with the help of her old cronies but together they begin a downward spiral.",
+  "directores": [
+    "Georg Wilhelm Pabst"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff1"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "George",
+      "apellido": "Bancroft"
+    },
+    {
+      "nombre": "Betty",
+      "apellido": "Compson"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2FmNTM2NTItYmY4Yi00MjRiLThkMGUtNzRhODIzNjVjNDgwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Docks of New York",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.7",
+  "sinopsis": "The ship on which Bill Roberts is a stoker has just put into port, giving the crew one night ashore. The ship's bad-tempered third engineer orders the stokers to clean up, while the engineer heads for a dockside bar, where he has a confrontation with the wife he had abandoned. Then, as Bill himself goes ashore, he sees a young woman attempt to drown herself. Bill dives in, saves her, and then, assisted by the engineer's wife, sees that she is cared for. Bill and the rescued woman begin to enjoy one another's company, but they must contend with the malice of the engineer, as well as a number of other complications.",
+  "directores": [
+    "Josef von Sternberg"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff2"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Emil",
+      "apellido": "Jannings"
+    },
+    {
+      "nombre": "Evelyn",
+      "apellido": "Brent"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg2Mjg3MDI5OF5BMl5BanBnXkFtZTgwMjMzMDMyMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Last Command",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Drama",
+    "Historia",
+    "Romance"
+  ],
+  "rating": "8",
+  "sinopsis": "A decorated, aristocratic Czarist General is reduced to penury after the collapse of Imperial Russia. An old adversary, now a successful director hires the general to re-enact the revolution which deposed him.",
+  "directores": [
+    "Josef von Sternberg"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff3"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Barbara",
+      "apellido": "Kent"
+    },
+    {
+      "nombre": "Glenn",
+      "apellido": "Tryon"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI1MGRiMWEtMDNhMi00NzRiLWE4OGMtZGZlNmIyOGE5MGM3L2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Lonesome",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "8",
+  "sinopsis": "A lonesome boy and a lonesome girl meet accidentally on their Saturday-off at Coney Island. It is love at fight sight but over the bewilderment of their sudden romance and escape from loneliness, they don't even realize they don'y even known each other's name until a fire breaks out and they are separated.",
+  "directores": [
+    "Pèl Fejès"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff4"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Maria",
+      "apellido": "Falconetti"
+    },
+    {
+      "nombre": "Eugene",
+      "apellido": "Silvain"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTFkYjg3ZjMtMWMwMC00ZTFhLThlNjgtYTQ2YzlkZGI5MWVmXkEyXkFqcGdeQXVyNTA2NDc4OA@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Passion of Joan of Arc",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Biografía",
+    "Drama",
+    "Historia"
+  ],
+  "rating": "8.4",
+  "sinopsis": "The sufferings of a martyr, Jeanne D'Arc (1412-1431). Jeanne appears in court where Cauchon questions her and d'Estivet spits on her. She predicts her rescue, is taken to her cell, and judges forge evidence against her. In her cell, priests interrogate her and judges deny her the Mass. Threatened first in a torture chamber and then offered communion if she will recant, she refuses. At a cemetery, in front of a crowd, a priest and supporters urge her to recant; she does, and Cauchon announces her sentence. In her cell, she explains her change of mind and receives communion. In the courtyard at Rouen castle, she burns at the stake; the soldiers turn on the protesting crowd.",
+  "directores": [
+    "Carl Theodor Dreyer"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff5"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Valèry",
+      "apellido": "Inkijinoff"
+    },
+    {
+      "nombre": "I",
+      "apellido": "Dedintsev"
+    }
+  ],
+  "paises": [
+    "Soviet Union"
+  ],
+  "idiomas": [
+    "Russian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg5ODAwNV5BMl5BanBnXkFtZTgwMzE3ODgwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Storm Over Asia",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Drama",
+    "Historia",
+    "Guerra"
+  ],
+  "rating": "7.4",
+  "sinopsis": "In 1918 a simple Mongolian herdsman escapes to the hills after brawling with a western capitalist fur trader who cheats him. In 1920 he helps the partisans fight for the Soviets against the occupying army. However he is captured when the army tries to requisition cattle from the herdsmen at the same time as the commandant meets with the reincarnated Grand Lama. After being shot, the army discovers an amulet that suggests he was a direct descendant of Genghis Khan. They find him still alive, so the army restores his health and plans to use him as the head of a Mongolian puppet regime.",
+  "directores": [
+    "Vsevolod Pudovkin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff6"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Buster",
+      "apellido": "Keaton"
+    },
+    {
+      "nombre": "Tom",
+      "apellido": "McGuire"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTg2MjUyMjYyOV5BMl5BanBnXkFtZTgwNjM0NDAwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Steamboat Bill, Jr.",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "8",
+  "sinopsis": "Following through on a promise to his mother, William Canning Jr. goes to River Junction to meet his father who has not seen him since he was a child. The younger Canning isn't quite what the elder was expecting but the old man has bigger problems. He's being put out of business by J.J. King, who not only owns the local hotel and bank, but has recently introduced a new paddle wheel steamer that puts Cannings older boat, the Stonewall Jackson, to shame. Bill Jr. and Kitty King take a liking to each other much to the dismay of both of their fathers. When a fierce storm hits River Junction, Bill Jr. is forced to save Kitty, her father and his father.",
+  "directores": [
+    "Charles Reisner",
+    "Buster Keaton"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff7"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Walt",
+      "apellido": "Disney"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkzMTIzMTQzNV5BMl5BanBnXkFtZTgwMzk4NzYwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Steamboat Willie",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Animación",
+    "Familia",
+    "Comedia"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Mickey is piloting a steamboat when Captain Pete comes to the bridge and throws him off. They stop to pick up cargo. Minnie just misses the boat and Mickey uses the crane to grab her. She drops her sheet music of \"Turkey in the Straw\" and a goat eats it. With help from Mickey, she cranks the goat's tail, and it plays the tune. Mickey accompanies on percussion and by torturing various animals, until Pete comes down and puts a stop to it, putting Mickey to work peeling potatoes. While this is the first sound Mickey Mouse, there's no dialog.",
+  "directores": [
+    "Ub Iwerks",
+    "Walt Disney"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff8"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Lillian",
+      "apellido": "Gish"
+    },
+    {
+      "nombre": "Lars",
+      "apellido": "Hanson"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMDgxODY0OF5BMl5BanBnXkFtZTgwNzY5NTY3MzE@._V1._CR179,49,664,928_SY264_CR5,0,178,264_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Wind",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Viejo oeste"
+  ],
+  "rating": "8.4",
+  "sinopsis": "Innocent and naive Letty Mason moves from her Virginia home to Sweet Water on the western prairies to live on the ranch of her cousin Beverly, his wife Cora and their three children. Letty quickly learns how inhospitable the environment in Sweet Water is, the most obvious item being the incessant wind. But equally inhospitable are the unrefined way the people in Sweet Water live to which she is unaccustomed, and Cora, who believes Letty has come to steal Beverly away from her. As such, Cora orders Letty out of her and Bev's house. With no money, Letty is forced to accept one of the marriage proposal she receives, the lesser evil being that from Bev and Cora's ranching neighbor, Lige Hightower, a man who she does not love. Despite a less than harmonious start, Letty, in part due to her isolation as she is more often than not forced to stay inside due to the wind, begins to have affection for Lige, who wants to do right by her, and who promises to send her back to Virginia when he is financial able. But a visitor who takes refuge in their house away from the wind may threaten Letty's ultimate happiness.",
+  "directores": [
+    "Victor Sjèstrèm"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ff9"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Helen",
+      "apellido": "Morgan"
+    },
+    {
+      "nombre": "Joan",
+      "apellido": "Peers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTYzMzM0M15BMl5BanBnXkFtZTcwNTA3NTQyMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Applause",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Drama",
+    "Musicalal"
+  ],
+  "rating": "7.3",
+  "sinopsis": "This early example of the \"backstage\" musical genre tells the story of Kitty Darling, a fading burlesque star who tries to save her convent-educated daughter April from following in Mom's footsteps.",
+  "directores": [
+    "Rouben Mamoulian"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ffa"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Albert",
+      "apellido": "Steinrèck"
+    },
+    {
+      "nombre": "Else",
+      "apellido": "Heller"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODM1ZjBkNzktMThjYS00NDNjLWFjYTYtN2E3Mzg2NjJhMmE5XkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Asphalt",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Joe May's sensual drama of life in the Berlin underworld is in many ways the perfect summation of German filmmaking in the silent era: a dazzling visual style, a psychological approach to its characters, and the ability to take a simple and essentially melodramatic story and turn it into something more complex and inherently cinematic.",
+  "directores": [
+    "Joe May"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ffb"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Charles",
+      "apellido": "King"
+    },
+    {
+      "nombre": "Anita",
+      "apellido": "Page"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJlOWM4NDEtYmZmYS00MTIyLTgwYWMtMjFhYmNhZWU4ZmVmXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Broadway Melody",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "6.4",
+  "sinopsis": "Harriet and Queenie Mahoney, a vaudeville act, come to Broadway, where their friend Eddie Kerns needs them for his number in one of Francis Zanfield's shows. Eddie was in love with Harriet, but when he meets Queenie, he falls in love to her, but she is courted by Jock Warriner, a member of the New Yorker high society. It takes a while till Queenie recognizes, that she is for Jock nothing more than a toy, and it also takes a while till Harriet recognizes, that Eddie is in love with Queenie.",
+  "directores": [
+    "Harry Beaumont"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ffc"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "George",
+      "apellido": "Arliss"
+    },
+    {
+      "nombre": "Doris",
+      "apellido": "Lloyd"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1NTAxOTExMV5BMl5BanBnXkFtZTgwMDk1MjgwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Disraeli",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Biografía",
+    "Drama",
+    "Historia"
+  ],
+  "rating": "6.5",
+  "sinopsis": "Biopic of the famed British Prime Minister focusing on his concern about Russia's growing interest in the Indian subcontinent and his attempts to buy the Suez Canal. He sees the Canal as the key strategic resource in maintaining the Empire in the East but is unpopular in many quarters. With antisemitism rife at the time, Disraeli finds little support for his plan to purchase the canal or his foreign policy in general. There is no doubt that the Russians are plotting against British interests and he is surrounded by spies, even in his office at 10 Downing St. When the Bank of England refuses to finance the purchase of the available shares he turns to private sources to raise the available cash only to find the conspirators one step ahead of him.",
+  "directores": [
+    "Alfred E. Green"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ffd"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Corinne",
+      "apellido": "Griffith"
+    },
+    {
+      "nombre": "Victor",
+      "apellido": "Varconi"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc3MDIxODQ3MF5BMl5BanBnXkFtZTgwMTkwMDY0MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Divine Lady",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Drama",
+    "Historia",
+    "Romance"
+  ],
+  "rating": "6.3",
+  "sinopsis": "A partly fictionalized account of history begins with the arrival of slatternly Emma Hart, a cook's daughter, at the home of Charles Greville. Greville takes her as his lover and grooms her until their relationship becomes an inconvenience. Greville then dupes Emma into traveling to Naples to live with his uncle, Lord Hamilton, ambassador to the court at Naples. Realizing that Greville has abandoned her, Emma agrees to marry Lord Hamilton. Soon, however, she meets Admiral Horatio Nelson of the British Navy. Emma plays a crucial role in convincing Naples to open its ports to Nelson during his campaign against Napoleon's French fleet. Soon, Emma and the married Nelson become romantically involved -- a relationship which will have consequences for them both.",
+  "directores": [
+    "Frank Lloyd"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75ffe"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Daniel L.",
+      "apellido": "Haynes"
+    },
+    {
+      "nombre": "Nina",
+      "apellido": "McKinney"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjg3MzgxMDUtNzc4Yi00NGJiLThhYWMtNTdkMmUyNjQ3NzgwXkEyXkFqcGdeQXVyMjcxNjI4NTk@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Hallelujah",
+  "tipo": "movie",
+  "ano": "1929",
+  "generos": [
+    "Drama",
+    "Musicalal"
+  ],
+  "rating": "7",
+  "sinopsis": "In a juke joint, sharecropper Zeke falls for a beautiful dancer, Chick, but she's only setting him up for a rigged craps game. He loses $100, the money he got for the sale of his family's entire cotton crop. His brother Spunk is mortally wounded in the shoot-out which follows. Zeke goes away but returns as Brother Zekiel the preacher. His forceful preaching draws the faithful in large numbers. Even Chick wants to be saved. Zekiel has asked the pretty Missy Rose to marry him, but Chick can still cast a spell over the preacher...",
+  "directores": [
+    "King Vidor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf75fff"
+  },
+  "nominaciones": {
+    "cantidad": "5",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Warner",
+      "apellido": "Baxter"
+    },
+    {
+      "nombre": "Edmund",
+      "apellido": "Lowe"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Spanish",
+    "Italian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODAxNzQ0M15BMl5BanBnXkFtZTgwNTk4ODQwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "In Old Arizona",
+  "tipo": "movie",
+  "ano": "1928",
+  "generos": [
+    "Romance",
+    "Viejo oeste"
+  ],
+  "rating": "5.8",
+  "sinopsis": "Army Sergeant Mickey Dunn sets out in pursuit of the Cisco Kid, a notorious if kind-hearted and charismatic bandit of the Old West. The Kid spends much of his loot on Tonia, the woman he loves, not realizing that she is being unfaithful to him in his absence. Soon, with her oblivious paramour off plying his trade, Tonia falls in with Dunn, drawn by the allure of a substantial reward for the Kid's capture -- dead or alive. Together, they concoct a plan to ambush and do away with the Cisco Kid once and for all.",
+  "directores": [
+    "Irving Cummings"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76000"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "7"
+  },
+  "actores": [
+    {
+      "nombre": "Louis",
+      "apellido": "Wolheim"
+    },
+    {
+      "nombre": "Lew",
+      "apellido": "Ayres"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French",
+    "German",
+    "Latin"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzg2MWQ4MDEtOGZlNi00MTg0LWIwMjQtYWY5NTQwYmUzMWNmXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "All Quiet on the Western Front",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Drama",
+    "Guerra"
+  ],
+  "rating": "8.1",
+  "sinopsis": "This is an English language film (made in America) adapted from a novel by German author Erich Maria Remarque. The film follows a group of German schoolboys, talked into enlisting at the beginning of World War 1 by their jingoistic teacher. The story is told entirely through the experiences of the young German recruits and highlights the tragedy of war through the eyes of individuals. As the boys witness death and mutilation all around them, any preconceptions about \"the enemy\" and the \"rights and wrongs\" of the conflict disappear, leaving them angry and bewildered. This is highlighted in the scene where Paul mortally wounds a French soldier and then weeps bitterly as he fights to save his life while trapped in a shell crater with the body. The film is not about heroism but about drudgery and futility and the gulf between the concept of war and the actuality.",
+  "directores": [
+    "Lewis Milestone"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76001"
+  },
+  "nominaciones": {
+    "cantidad": "4",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Chester",
+      "apellido": "Morris"
+    },
+    {
+      "nombre": "Wallace",
+      "apellido": "Beery"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Russian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjBjMmU2NjQtOGJlYS00OTE4LWE4ZjYtNzlmMzJhYmE5MjA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Big House",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Suspenso"
+  ],
+  "rating": "7.2",
+  "sinopsis": "After a manslaughter conviction from drunk driving, nice but foolish Kent is sent to a prison over-crowded and unable to properly deal with it's inmates. There he meets veteran criminals like Morgan and his hardened pal Butch. And the system punishes them all, turning them against each other and bringing out the worst.",
+  "directores": [
+    "George W. Hill",
+    "Ward Wing"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76002"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "John",
+      "apellido": "Wayne"
+    },
+    {
+      "nombre": "Marguerite",
+      "apellido": "Churchill"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTY3MTUyNl5BMl5BanBnXkFtZTgwMDM2ODAyMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Big Trail",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Aventura",
+    "Viejo oeste",
+    "Romance"
+  ],
+  "directores": [
+    "Raoul Walsh",
+    "Louis R. Loeffler"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76003"
+  },
+  "nominaciones": {
+    "cantidad": "4",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Norma",
+      "apellido": "Shearer"
+    },
+    {
+      "nombre": "Chester",
+      "apellido": "Morris"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzQzNjEwNV5BMl5BanBnXkFtZTgwNjA2NTAwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Divorcee",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "rating": "6.9",
+  "sinopsis": "Jerry and Ted are young, in love, and part of the New York 'in-crowd'. Jerry's decision to marry Ted crushes a yearning Paul. Distraught Paul gets drunk and wrecks his car, disfiguring young Dorothy's face in the process. Out of pity, Paul marries Dorothy. Years later, the apparent perfect marriage of Ted and Jerry falls apart from infidelity on both sides. Inwardly unhappy, popular Jerry lives a party life while Ted sinks into a life of alcoholism. Jerry then runs into Paul, who still loves her. After spending time together with Jerry, Paul plans to divorce Dorothy. When Jerry sees Dorothy again, she has second thoughts about where her life is heading.",
+  "directores": [
+    "Robert Z. Leonard"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76004"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Paul",
+      "apellido": "Whiteman"
+    },
+    {
+      "nombre": "John",
+      "apellido": "Boles"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxODk3NzI3ODdeQTJeQWpwZ15BbWU4MDQwMDEwMjIx._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "King of Jazz",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Animación",
+    "Musical"
+  ],
+  "rating": "7.5",
+  "sinopsis": "This revue presents its numbers around the orchestra leader Paul Whiteman, besides that it shows in it's final number that the European popular music are the roots of American popular music, called Jazz.",
+  "directores": [
+    "John Murray Anderson",
+    "Pèl Fejès"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76005"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Edward G.",
+      "apellido": "Robinson"
+    },
+    {
+      "nombre": "Douglas",
+      "apellido": "Jr."
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzE4ZTI3MDQtMTE5MS00MzQxLTkwZGMtYWM5MjU2MzE3OTk5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Little Caesar",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Cine negro"
+  ],
+  "rating": "7.4",
+  "sinopsis": "Rico is a small-time hood who knocks off gas stations for whatever he can take. He heads east and signs up with Sam Vettori's mob. A New Year's Eve robbery at Little Arnie Lorch's casino results in the death of the new crime commissioner Alvin McClure. Rico's good friend Joe Massara, who works at the club as a professional dancer, works as the gang's lookout man and wants out of the gang. Rico is ambitious and eventually takes over Vettori's gang; he then moves up to the next echelon pushing out Diamond Pete Montana. When he orders Joe to dump his girlfriend Olga and re-join the gang, Olga decides there's only one way out for them.",
+  "directores": [
+    "Mervyn LeRoy"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76006"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "7"
+  },
+  "actores": [
+    {
+      "nombre": "Gary",
+      "apellido": "Cooper"
+    },
+    {
+      "nombre": "Marlene",
+      "apellido": "Dietrich"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French",
+    "Spanish",
+    "Arabic",
+    "Italian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWNiYzgxZjMtZTI5NC00MmZkLThkNTgtZGJmZTA0OTZmOGJiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Morocco",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Romance",
+    "Drama"
+  ],
+  "rating": "7.3",
+  "sinopsis": "The Foreign Legion marches in to Mogador with booze and women in mind just as singer Amy Jolly arrives from Paris to work at Lo Tinto's cabaret. That night, insouciant legionnaire Tom Brown catches her inimitably seductive, tuxedo-clad act. Both bruised by their past lives, the two edge cautiously into a no-strings relationship while being pursued by others. But Tom must leave on a perilous mission: is it too late for them?",
+  "directores": [
+    "Josef von Sternberg"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76007"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Greta",
+      "apellido": "Garbo"
+    },
+    {
+      "nombre": "Lewis",
+      "apellido": "Stone"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTc4YjNhZmItNTNmMy00NTg1LTgyNzYtMjVmOTljMTM4YTgxXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Romance",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "6",
+  "sinopsis": "Young Harry is in love and wants to marry an actress, much to the displeasure of his family. Harry thinks that Bishop Armstrong knows nothing about love so Armstrong tells him the story of Rita and himself. Rita was an Opera Star singing in New York who was at a party given by Cornelius. Armstrong was a 28 year old rector. He fell for Rita when he saw her and after six weeks he wanted to marry her. Naive as he was, he thought that all of Rita's \"relationships\" were in the distant past, but Rita lives for the moment and knows that she can never marry Armstrong.",
+  "directores": [
+    "Clarence Brown"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76008"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Enrique",
+      "apellido": "Rivero"
+    },
+    {
+      "nombre": "Elizabeth",
+      "apellido": "Miller"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWY3ODE5ZWEtYjlmYi00NjA4LTk4ZWYtMzBhZDE5MjY0YTYxXkEyXkFqcGdeQXVyNzI4MDMyMTU@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Blood of a Poet",
+  "tipo": "movie",
+  "ano": "1932",
+  "directores": [
+    "Jean Cocteau"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76009"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Albert",
+      "apellido": "Prèjean"
+    },
+    {
+      "nombre": "Pola",
+      "apellido": "Illèry"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French",
+    "Romanian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGJiYjkxZTktNDA0OC00MzkxLThjMDgtZTBkZWVjY2Q5ZDM2XkEyXkFqcGdeQXVyNTUyMTMyMDg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Under the Roofs of Paris",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.4",
+  "sinopsis": "While singing in a lower class quarter in Paris, the street singer Albert falls in love with the Romanian party girl Pola, who is the companion of the gangster Fred. One night, Albert meets with Pola, who has just found that Fred had stolen her key, and his friend Louis proposes to toss to date her. However, Albert brings her to his room and they spend the night together, with Albert sleeping on the floor and Pola on his bed. Early in the morning, the pickpocket èmile brings a bag with stolen pieces and asks Albert to keep the bag for him. When the police busts Albert's room and finds the stolen goods, he is arrested and sent to jail. Meanwhile Fred travels and Pola seeks comfort with Louis, and they stay together. When èmile is arrested by the police, he confesses that Albert is innocent and he is released and seeks out Pola. Meanwhile Fred returns to Paris and also seeks out Pola that is with Louis. The three men that are under the spell of the gorgeous lady dispute her love and only one wins.",
+  "directores": [
+    "Renè Clair"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600a"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Fritz",
+      "apellido": "Kampers"
+    },
+    {
+      "nombre": "Gustav",
+      "apellido": "Diessl"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNjRkNzg5NmMtNGJlOC00NTUxLWIwYmQtMTM3NWFhMjIyNjViXkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-PG",
+  "titulo": "Westfront 1918",
+  "tipo": "movie",
+  "ano": "1930",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Guerra"
+  ],
+  "rating": "7.5",
+  "sinopsis": "A group of German infantrymen of the First World War live out their lives in the trenches of France. They find brief entertainment and relief in a village behind the lines, but primarily terror fills their lives as the attacks on and from the French army ebb and flow. One of the men, Karl, goes home on leave only to discover the degradation forced on his family by wartime poverty. He returns to the lines in time to face an enormous attack by French tanks.",
+  "directores": [
+    "Georg Wilhelm Pabst"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600b"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Max",
+      "apellido": "Schreck"
+    },
+    {
+      "nombre": "Gustav",
+      "apellido": "Wangenheim"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGZmLWIxMmMtOGM2NTFiY2U3MmExXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Nosferatu",
+  "tipo": "movie",
+  "ano": "1922",
+  "generos": [
+    "Horror"
+  ],
+  "rating": "8",
+  "sinopsis": "Wisbourg, Germany based estate agent Knock dispatches his associate, Hutter, to Count Orlok's castle in Transylvania as the Count wants to purchase an isolated house in Wisbourg. They plan on selling him the one across the way from Hutter's own home. Hutter leaves his innocent wife, Ellen, with some friends while he is away. Hutter's trek is an unusual one, with many locals not wanting to take him near the castle where strange events have been occurring. Once at the castle, Hutter does manage to sell the Count the house, but he also notices and feels unusual occurrences, primarily feeling like there is a dark shadow hanging over him, even in the daytime when the Count is unusually asleep. Hutter eventually sees the Count's sleeping chamber in a crypt, and based on a book he has recently read, believes the Count is really a vampire or Nosferatu. While Hutter is trapped in the castle, the Count, hiding in a shipment of coffins, makes his way to Wisbourg, causing death along his way, which most attribute to the plague. Hutter himself tries to rush home to save his town and most importantly save Ellen from Nosferatu's imminent arrival. In Wisbourg, Ellen can feel the impending darkness as Nosferatu gets closer. But she learns that a sinless woman can sacrifice herself to kill the vampire. Will Hutter be able to save Ellen either from Nosferatu and/or her self-sacrifice?",
+  "directores": [
+    "F.W. Murnau"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600c"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "James",
+      "apellido": "Dunn"
+    },
+    {
+      "nombre": "Sally",
+      "apellido": "Eilers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI2NDAwNDAyM15BMl5BanBnXkFtZTcwNjM1MjQxMw@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Bad Girl",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "6.7",
+  "sinopsis": "A mug and a jane: Dorothy knows that every guy is going to make a pass at her; Eddie knows that every gal wastes her money on good times. He's saving to open a repair shop. When the two of them meet, they can't believe they get along. One evening he leaves her waiting in the rain; she finds his apartment and reads him the riot act. They end up spooning and napping until 4 AM. She's afraid of her brother, who's her guardian, so Eddie figures she should tell her brother that she's getting married the next morning. Dorothy tries out the story but knows Eddie won't show up. It's the first of a series of promises, fears, miscalculations, and hard knocks. Where will they end up?",
+  "directores": [
+    "Frank Borzage"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600d"
+  },
+  "nominaciones": {
+    "cantidad": "5",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Wallace",
+      "apellido": "Beery"
+    },
+    {
+      "nombre": "Jackie",
+      "apellido": "Cooper"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzI0ODE3NzI3OV5BMl5BanBnXkFtZTgwMDIzMTkxMTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Champ",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Deporte"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Dink Purcell loves his alcoholic father, ex-heavyweight champion Andy \"Champ\" Purcell, despite his frequent binges, his frequent gambling and their squalid living conditions. And there's nothing Andy wouldn't do for Dink. When Andy wins a race horse gambling, he gives it to Dink and they race it at a Tijuana track. There, Dink meets Linda Carleton, a race horse owner herself, and they have an immediate rapport. But Linda's rich husband sees Andy and realizes Dink is Linda's son, who she gave up when she and Andy divorced. Andy is bribed $200 to allow Dink to visit with Linda, but refuses to allow Dink to spend six months with the Carletons. When Andy loses the horse gambling and winds up in jail after a drunken tirade, he realizes Dink's place is with his mother. Dink tearfully goes but sneaks out and returns at his first opportunity, filling a depressed Andy with a desire to make good. So Andy goes into training after his managers arrange a boxing match with the Mexican champion.",
+  "directores": [
+    "King Vidor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600e"
+  },
+  "nominaciones": {
+    "cantidad": "4",
+    "ganadas": "5"
+  },
+  "actores": [
+    {
+      "nombre": "Richard",
+      "apellido": "Dix"
+    },
+    {
+      "nombre": "Irene",
+      "apellido": "Dunne"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjExODI2MjE4NF5BMl5BanBnXkFtZTgwMDA2NTAwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Cimarron",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama",
+    "Viejo oeste"
+  ],
+  "rating": "6",
+  "sinopsis": "When the government opens up the Oklahoma territory for settlement, restless Yancey Cravat claims a plot of the free land for himself and moves his family there from Wichita. A newspaperman, lawyer, and just about everything else, Cravat soon becomes a leading citizen of the boom town of Osage. Once the town is established, however, he begins to feel confined once again, and heads for the Cherokee Strip, leaving his family behind. During this and other absences, his wife Sabra must learn to take care of herself and soon becomes prominent in her own right.",
+  "directores": [
+    "Wesley Ruggles"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7600f"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Gary",
+      "apellido": "Cooper"
+    },
+    {
+      "nombre": "Sylvia",
+      "apellido": "Sidney"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI4ODAyMTc2OV5BMl5BanBnXkFtZTgwMjU0MjUzMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "City Streets",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Cine negro"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Nan, a racketeer's daughter, is in love with The Kid, a shooting gallery showman. Despite Nan's prodding, The Kid has no ambitions about joining the rackets and making enough money to support Nan in the lifestyle she's accustomed to. Her attitude changes after her father implicates her in a murder and she's sent to prison. During her incarceration, her father convinces The Kid to join the gang in order to help free Nan. When Nan is released, she wants nothing more to do with the mob and tries to get The Kid to quit, but she may be too late.",
+  "directores": [
+    "Rouben Mamoulian"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76010"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Virginia",
+      "apellido": "Cherrill"
+    },
+    {
+      "nombre": "Florence",
+      "apellido": "Lee"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "City Lights",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "8.6",
+  "sinopsis": "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+  "directores": [
+    "Charles Chaplin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76011"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Marlene",
+      "apellido": "Dietrich"
+    },
+    {
+      "nombre": "Victor",
+      "apellido": "McLaglen"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjk3Njk1MGUtZDljZi00ZmFiLTllMTYtZTdmMDUyMGY3ZDFkXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Dishonored",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama",
+    "Musical",
+    "Guerra"
+  ],
+  "rating": "7.3",
+  "sinopsis": "The Austrian Secret Service sends its most seductive agent to spy on the Russians.",
+  "directores": [
+    "Josef von Sternberg"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76012"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Bela",
+      "apellido": "Lugosi"
+    },
+    {
+      "nombre": "Helen",
+      "apellido": "Chandler"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Hungarian",
+    "Latin"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDY2ODZhZWQtNDk0ZS00OGE4LWE4NjAtZjE5MTJhMjExMTRjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Dracula",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Horror"
+  ],
+  "rating": "7.6",
+  "sinopsis": "After a harrowing ride through the Carpathian mountains in eastern Europe, Renfield enters castle Dracula to finalize the transferral of Carfax Abbey in London to Count Dracula, who is in actuality a vampire. Renfield is drugged by the eerily hypnotic count, and turned into one of his thralls, protecting him during his sea voyage to London. After sucking the blood and turning the young Lucy Weston into a vampire, Dracula turns his attention to her friend Mina Seward, daughter of Dr. Seward who then calls in a specialist, Dr. Van Helsing, to diagnose the sudden deterioration of Mina's health. Van Helsing, realizing that Dracula is indeed a vampire, tries to prepare Mina's fiance, John Harker, and Dr. Seward for what is to come and the measures that will have to be taken to prevent Mina from becoming one of the undead.",
+  "directores": [
+    "Tod Browning"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76013"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Rudolf",
+      "apellido": "Forster"
+    },
+    {
+      "nombre": "Carola",
+      "apellido": "Neher"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODY5NzhmZTUtYTAyNy00MTRiLTg1Y2YtNDQ5MzM3ZGUwNGQ3XkEyXkFqcGdeQXVyMDM0NzcxMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The 3 Penny Opera",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Musicalal"
+  ],
+  "rating": "7.4",
+  "sinopsis": "In London at the turn of the century, the bandit Mack the Knife marries Polly without the knowledge of her father, Peachum, the 'king of the beggars'.",
+  "directores": [
+    "Georg Wilhelm Pabst"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76014"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Colin",
+      "apellido": "Clive"
+    },
+    {
+      "nombre": "Mae",
+      "apellido": "Clarke"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Latin"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2RjNjU4MmUtZWU5MS00MjdhLTkxM2MtYjBiM2FhYTE4OTQwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Frankenstein",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Horror",
+    "Ciencia ficción"
+  ],
+  "rating": "8",
+  "sinopsis": "Henry Frankenstein is a doctor who is trying to discover a way to make the dead walk. He succeeds and creates a monster that has to deal with living again.",
+  "directores": [
+    "James Whale"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76015"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Norma",
+      "apellido": "Shearer"
+    },
+    {
+      "nombre": "Leslie",
+      "apellido": "Howard"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMWY4YjFkNzItMTEyZS00OTIwLWJiYmQtY2JlMTcxZGM4N2Q1XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "A Free Soul",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "6.7",
+  "sinopsis": "Stephen Ashe, an upper class alcoholic defense attourney, successfully defends local mobster Ace Wilfong in a murder case. After his daughter Jan Ashe breaks her engagement to polo player Dwight Winthrop and starts an affair with Wilfong, she finds that the liason is not easily severed when she wants out. Winthrop earns Miss Ashe's true affections by killing Wilfong to break his grip on her. Now the question is, can Stephen Ashe save Winthrop with an impassioned defense speech to the jury?",
+  "directores": [
+    "Clarence Brown"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76016"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Alfred",
+      "apellido": "Lunt"
+    },
+    {
+      "nombre": "Lynn",
+      "apellido": "Fontanne"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU3NjMwMzgwNl5BMl5BanBnXkFtZTcwODk5NzAyMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Guardsman",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "6.7",
+  "sinopsis": "A Vienna based acting couple make magic when they perform together on stage. Unknown to the theater going public and despite being married for only six months, that magic seems no longer to translate to their personal life, where they are constantly arguing, even under their breaths during on-stage curtain calls. These arguments stem from the actress' moody behavior, which the actor believes means that she no longer loves him and that she is looking for another man to replace him in her personal life. He believes she even scans the audience for potential suitors, probably being most attracted to the soldier type. Their feuding is at a point where they take pot shots at each other about everything in their lives, even the quality of the other's acting. The actor may have a valid point as the actress has been receiving bouquets of roses of late and a Russian guardsman has been seen hanging around outside their home. The actor knows these things as he is that Russian guardsman (who is also a Russian prince) in disguise, he who is also sending the flowers as the guardsman. He wants to see if this guardsman can indeed woo his wife away from him, and thus show her for who she really is. He concocts a further scheme to pretend to be out of town for a 24 hour period on another acting engagement, during which time he will try and seduce her as the guardsman. But the actress may throw some wrenches into his plan.",
+  "directores": [
+    "Sidney Franklin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76017"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "5"
+  },
+  "actores": [
+    {
+      "nombre": "Adolphe",
+      "apellido": "Menjou"
+    },
+    {
+      "nombre": "Pat",
+      "apellido": "OBrien"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM4NDIwNjc3NV5BMl5BanBnXkFtZTgwODMyMzM0MzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-PG",
+  "titulo": "The Front Page",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "6.9",
+  "sinopsis": "Hildy Johnson, newspaper reporter, is engaged to Peggy Grant and planning to move to New York for a higher paying advertising job. The court press room is full of lame reporters who invent stories as much as write them. All are waiting to cover the hanging of Earl Williams. When Williams escapes from the inept Sheriff, Hildy seizes the opportunity by using his $260 honeymoon money to payoff an insider and get the scoop on the escape. However, Walter Burns, the Post's editor, is slow to repay Hildy back, hoping that he will stay on the story. Getting a major scoop looks possible when Hildy stumbles onto the bewildered escapee and hides him in a roll-top desk in the press room. Burns shows up to help. Can they keep Williams' whereabouts secret long enough to get the scoop, especially with the Sheriff and other reporters hovering around?",
+  "directores": [
+    "Lewis Milestone"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76018"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Alexander",
+      "apellido": "Granach"
+    },
+    {
+      "nombre": "Fritz",
+      "apellido": "Kampers"
+    }
+  ],
+  "paises": [
+    "Germany",
+    "France"
+  ],
+  "idiomas": [
+    "French",
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzNjOGUwOTItNzJhZi00NDFmLWI1MjgtY2YxNmFjMGJkNTQxXkEyXkFqcGdeQXVyNzgzODI1OTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-14",
+  "titulo": "Comradeship",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "7.6",
+  "sinopsis": "A old German mine was split in two after the end of WWI because of the new border. In the Frenchpart a fire breaks out. The German minwers send a rescue group in, helping their French comrades. A group of three old German miners, who where not treaten friendly at a French inn the night before, start their private rescue through an old way, where since 1919 the border is. After all survivors are rescued, there's a big party with speeches about friendship between Frensh and Germans, while border police closes the old way in the mine.",
+  "directores": [
+    "Georg Wilhelm Pabst"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76019"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Peter",
+      "apellido": "Lorre"
+    },
+    {
+      "nombre": "Ellen",
+      "apellido": "Widmann"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "M",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Suspenso"
+  ],
+  "rating": "8.4",
+  "sinopsis": "In Germany, Hans Beckert is an unknown killer of girls. He whistles Edvard Grieg's 'In The Hall of the Mountain King', from the 'Peer Gynt' Suite I Op. 46 while attracting the little girls for death. The police force pressed by the Minister give its best effort trying unsuccessfully to arrest the serial killer. The organized crime has great losses due to the intense search and siege of the police and decides to chase the murderer, with the support of the beggars association. They catch Hans and briefly judge him.",
+  "directores": [
+    "Fritz Lang"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601a"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Emilia",
+      "apellido": "Unda"
+    },
+    {
+      "nombre": "Dorothea",
+      "apellido": "Wieck"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDhkNjRkYWUtYjJmMC00NjcyLThjZmYtZjdkOTYzOGI2MGFjXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Mèdchen in Uniform",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.8",
+  "sinopsis": "German film in which a sensitive girl is sent to an all-girls boarding school and develops a romantic attachment to one of her teachers. One of the earliest narrative films to explicitly portray homosexuality.",
+  "directores": [
+    "Leontine Sagan",
+    "Carl Froelich"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601b"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Albert",
+      "apellido": "Prèjean"
+    },
+    {
+      "nombre": "Florelle",
+      "apellido": "Florelle"
+    }
+  ],
+  "paises": [
+    "Germany",
+    "USA"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTAzMTIwOGMtZmQzNy00NmY0LTk5NTUtYWY3OWY1NjIwZjZmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "L'opèra de quat'sous",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Musicalal"
+  ],
+  "directores": [
+    "Georg Wilhelm Pabst"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601c"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "James",
+      "apellido": "Cagney"
+    },
+    {
+      "nombre": "Jean",
+      "apellido": "Harlow"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmJhZTU2NjEtZWM4MC00ZWU3LWEyOWUtMDgxNzI4ZTllYjcwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Public Enemy",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Crimen",
+    "Drama"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Tom Powers and Matt Doyle are best friends and fellow gangsters, their lives frowned upon by Tom's straight laced brother, Mike, and Matt's straight laced sister, Molly. From their teen-aged years into young adulthood, Tom and Matt have an increasingly lucrative life, bootlegging during the Prohibition era. But Tom in particular becomes more and more brazen in what he is willing to do, and becomes more obstinate and violent against those who either disagree with him or cross him. When one of their colleagues dies in a freak accident, a rival bootlegging faction senses weakness among Tom and Matt's gang, which is led by Paddy Ryan. A gang war ensues, resulting in Paddy suggesting that Tom and Matt lay low. But because of Tom's basic nature, he decides instead to take matters into his own hands.",
+  "directores": [
+    "William A. Wellman"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601d"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Helen",
+      "apellido": "Hayes"
+    },
+    {
+      "nombre": "Lewis",
+      "apellido": "Stone"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg1ODU3NTM3Ml5BMl5BanBnXkFtZTcwNDQyMzcxMQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Sin of Madelon Claudet",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "6.8",
+  "sinopsis": "French country girl Madelon falls for artist Larry, who leaves her after she becomes pregnant. She finds help from jewel thief Carlo, but he commits suicide when the police try to arrest him. Madelon is arrested and receives a ten year term in prison for assisting him in his profession. To support her son, who does not know that she's been in prison, she becomes a street walker, allowing him to attend medical school.",
+  "directores": [
+    "Edgar Selwyn"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601e"
+  },
+  "nominaciones": {
+    "cantidad": "4",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Jackie",
+      "apellido": "Cooper"
+    },
+    {
+      "nombre": "Robert",
+      "apellido": "Coogan"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mzc1OTg4NF5BMl5BanBnXkFtZTcwMDM1MjQxMw@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Skippy",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Familia",
+    "Drama",
+    "Comedia"
+  ],
+  "rating": "6.3",
+  "sinopsis": "Precocious adolescent Skippy Skinner spends most of his time trying to get around doing those things that his parents want him to do (like brush his teeth), while doing those things his parents don't want him to do. Chief among the latter is spending time across the railroad tracks in Shantytown, instead of playing with \"clean\" neighborhood kids like brother and sister Sidney and Eloise. Skippy's father, Dr. Herbert Skinner, the city's head of the health board, in particular doesn't like Skippy spending time there as Dr. Skinner is a verminophobe, and believes Shantytown is dirty and unhealthy. On Skippy's latest visit to Shantytown when he meets a new friend named Sooky Wayne, he learns that Shantytown is being torn down and its poor residents have to move. And Sooky's mongrel and unlicensed (since Mrs. Wayne can't afford the $3 license fee) dog Penny is captured by the city's dog catcher. As Skippy does whatever he can to raise the $3 to get Penny back for his new friend (which includes breaking into his piggy bank, holding a variety show for the Shantytown kids, and trying to ask his father for the money), Skippy learns that one person seems to be responsible for both these problems in his life, which makes the already tenuous relationship with this person even more tenuous.",
+  "directores": [
+    "Norman Taurog"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7601f"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "apellido": "Matahi"
+    },
+    {
+      "nombre": "Anne",
+      "apellido": "Chevalier"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDhmNzg0M2UtZGNkNC00YTQ3LWE0ZjAtMmFjNTI2MmFkZmNiXkEyXkFqcGdeQXVyMTczMjA2Nzk@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "TV-PG",
+  "titulo": "Tabu: A Story of the South Seas",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Aventura"
+  ],
+  "rating": "7.7",
+  "sinopsis": "In his final film, F.W. Murnau presents the tale of two young lovers on the idyllic island of Bora Bora in the South Pacific. Their life is shattered when the old warrior declares the girl to be the Chosen Maid and it is forbidden for any man to even look upon her. Refusing to accept a life apart, they run off to another island, one that is decadent and westernized. The boy works as a pearl diver but not quite understanding the concept of money, is soon in debt. When the old warrior tracks them down they again plan to run away but in a desperate attempt to pay off his debts, the boy dives for pearls in shark-infested waters. The boy is successful but fate seems determined to keep the two lovers apart.",
+  "directores": [
+    "F.W. Murnau"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76020"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "4"
+  },
+  "actores": [
+    {
+      "nombre": "Henri",
+      "apellido": "Marchand"
+    },
+    {
+      "nombre": "Raymond",
+      "apellido": "Cordy"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODg0ODAzNTItM2M4ZC00NGYxLWIzMmMtNzFiMWIzYWU2YWJiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "è Nous la Libertè",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Comedia",
+    "Musicalal"
+  ],
+  "rating": "7.7",
+  "sinopsis": "A famous left-wing satirical comedy about two ex-convicts, one of whom escaped jail and then worked his way up from salesman to factory owner, where he oversees a highly mechanized operation where the workers are reduced to mere automatons. Fearful of being exposed over his past, at first by his friend and later by another gangster, the owner chooses to give his factory to the workers, then escapes with his friend to the freedom of the open road. The production company for \"A Nous la Liberte\" was for more than a decade embroiled in a lawsuit claiming that Charles Chaplin had seen their film and plagiarized many ideas from it as he developed \"Modern Times.\"",
+  "directores": [
+    "Renè Clair"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76021"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Leni",
+      "apellido": "Riefenstahl"
+    },
+    {
+      "nombre": "Mathias",
+      "apellido": "Wieman"
+    }
+  ],
+  "paises": [
+    "Germany"
+  ],
+  "idiomas": [
+    "German",
+    "Italian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTQ1NTMzMTQtODIyYS00MTAxLWE1NTgtZGFkZTE2YmZkZmNjXkEyXkFqcGdeQXVyNTA2NDc4OA@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Blue Light",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Misterio"
+  ],
+  "rating": "7",
+  "sinopsis": "Junta is hated by the people in the village where she lives, especially by the women, who suspect her of being a witch. Only she can climb the nearby mountains to a cave high up, whence a mysterious blue light glows when the moon is full. Many young men of the village have died trying to follow her. She is driven out of town, and takes to living in the mountains. Eventually she shares the secret of the blue light with one man, and he betrays it.",
+  "directores": [
+    "Leni Riefenstahl",
+    "Bèla Balèzs"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76022"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Lionel",
+      "apellido": "Barrymore"
+    },
+    {
+      "nombre": "Nancy",
+      "apellido": "Carroll"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzJlMDZjM2QtNWU4Ny00ZGRiLTljNjctZGZjNGM2ZmIzN2I1XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Broken Lullaby",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "7.6",
+  "sinopsis": "A young French soldier in World War I is overcome with guilt when he kills a German soldier who, like himself, is a musically gifted conscript, each having attended the same musical conservatory in France. The fact that the incident occurred in war does not assuage his guilt. He travels to Germany to meet the man's family.",
+  "directores": [
+    "Ernst Lubitsch"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76023"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "James",
+      "apellido": "Cagney"
+    },
+    {
+      "nombre": "Joan",
+      "apellido": "Blondell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDg0OTc2YjUtYWMzZi00YWIxLTkwMjEtODFjYjhkOGI2ZWQwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Crowd Roars",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Acción"
+  ],
+  "rating": "6.4",
+  "sinopsis": "Famous motor-racing champion Joe Greer returns to his hometown to compete in a local race. He discovers his younger brother has aspirations to become a racing champion and during the race Joe loses his nerve when another driver his killed, leaving his brother to win. Joe's luck takes a plunge while his brother rises to height of fame.",
+  "directores": [
+    "Howard Hawks"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76024"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Fredric",
+      "apellido": "March"
+    },
+    {
+      "nombre": "Miriam",
+      "apellido": "Hopkins"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRmZWNlNmMtNmVhMi00OThhLWEyNjgtNTY3OTljY2ZlYjBiXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Dr. Jekyll and Mr. Hyde",
+  "tipo": "movie",
+  "ano": "1931",
+  "generos": [
+    "Horror",
+    "Ciencia ficción"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Based on the story by Robert Louis Stevenson, Dr. Henry Jekyll believes that there are two distinct sides to men - a good and an evil side. He believes that by separating the two man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug it is already too late...",
+  "directores": [
+    "Rouben Mamoulian"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76025"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Helen",
+      "apellido": "Hayes"
+    },
+    {
+      "nombre": "Gary",
+      "apellido": "Cooper"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzM2ODc0NTY3OF5BMl5BanBnXkFtZTgwMjQwNzkzMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "A Farewell to Arms",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Guerra"
+  ],
+  "rating": "6.6",
+  "sinopsis": "A tale of the love between ambulance driver Lt. Henry and Nurse Catherine Barkley during World War I. The action takes place in Italy and the two fall in love during the war and will stop at nothing to be together. The film also analyses Lt. Henry's feelings on war and the purpose of fighting.",
+  "directores": [
+    "Frank Borzage"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76026"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Barbara",
+      "apellido": "Stanwyck"
+    },
+    {
+      "nombre": "Adolphe",
+      "apellido": "Menjou"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNTU5NTk2N15BMl5BanBnXkFtZTgwMzA2NTAwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Forbidden",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7",
+  "sinopsis": "On a cruise to Cuba, Lulu Smith falls in love with Bob Grover. Back home, she breaks off the romance when he tells her he is married. Lulu has a baby, but doesn't tell Bob, who turns out to be a rising politician. She passes herself off as the baby's nanny. When Bob learns what is going on, he adopts the little girl, not telling his wife or anyone else where she came from. Lulu gets a job at a newspaper. Things get complicated when the editor gets the dirt on Grover, but also wants to marry Lulu.",
+  "directores": [
+    "Frank Capra"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76027"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Wallace",
+      "apellido": "Ford"
+    },
+    {
+      "nombre": "Leila",
+      "apellido": "Hyams"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "German",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjMyYjgyOTQtZDVlZS00NTQ0LWJiNDItNGRlZmM3Yzc0N2Y0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Freaks",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Horror"
+  ],
+  "rating": "8",
+  "sinopsis": "A circus trapeze artist, Cleopatra, takes an interest in Hans, a midget who works in the circus sideshow. Her interest however is in the money Hans will be inheriting and she is actually carrying on an affair with another circus performer, Hercules. Hans's fiancèe does her best to convince him that he is being used but to no avail. At their wedding party, a drunken Cleopatra tells the sideshow freaks just what she thinks of them. Together, the freaks decide to make her one of their own.",
+  "directores": [
+    "Tod Browning"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76028"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Greta",
+      "apellido": "Garbo"
+    },
+    {
+      "nombre": "John",
+      "apellido": "Barrymore"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Russian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODc5OWY0MWQtZjgzMS00YTA1LTk1ZmEtY2VmYTgwYmU4ZjAwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Grand Hotel",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Berlin's plushest, most expensive hotel is the setting where in the words of Dr. Otternschlag \"People come, people go. Nothing ever happens.\". The doctor is usually drunk so he missed the fact that Baron von Geigern is broke and trying to steal eccentric dancer Grusinskaya's pearls. He ends up stealing her heart instead. Powerful German businessman Preysing brow beats Kringelein, one of his company's lowly bookkeepers but it is the terminally ill Kringelein who holds all the cards in the end. Meanwhile, the Baron also steals the heart of Preysing's mistress, Flaemmchen, but she doesn't end up with either one of them in the end...",
+  "directores": [
+    "Edmund Goulding"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76029"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "6"
+  },
+  "actores": [
+    {
+      "nombre": "Paul",
+      "apellido": "Muni"
+    },
+    {
+      "nombre": "Glenda",
+      "apellido": "Farrell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDllMDA4YWQtYzdmNC00OGYxLWE0N2QtZmNjM2QxMTgxYzFkXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "I Am a Fugitive from a Chain Gang",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Cine negro"
+  ],
+  "rating": "8.1",
+  "sinopsis": "Having returned from fighting in World War I, James Allen doesn't want to settle into a humdrum life and decides to set off to find his fortune. He travels the length and breadth of America, working as a skilled tradesman in the construction industry. When times get tough however, he finds himself living in a shelter where an acquaintance suggests they go out for a hamburger. What the friend really has in mind is to rob the diner and Allen soon finds himself working on a chain gang with a long jail sentence. Allen manages to escape however and heads to Chicago where over several years he slowly but surely works his way up the ladder to become one of the most respected construction engineers in the city. His past catches up with him and despite protestations from civic leaders and his many friends in Chicago, he finds himself again on the chain gang. Escaping for a second time, he accepts that to survive, he must lead a life of crime.",
+  "directores": [
+    "Mervyn LeRoy"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602a"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Maurice",
+      "apellido": "Chevalier"
+    },
+    {
+      "nombre": "Jeanette",
+      "apellido": "MacDonald"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGFhZTQ3NGItMWFlNy00OTU4LWJiYzItYWM2NGU1YTY1NjE4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Love Me Tonight",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Maurice Courtelin, a Parisian tailor (Maurice Chevalier), is owed a great sum of money by a viscount (Charles Ruggles). Stalling for time, the titled but penniless nobleman moves Maurice into the family chateau and passes him off as a baron. The beguiling Maurice soon charms the entire aristocratic household, except for the haughty Princess Jeanette (Jeanette MacDonald), who remains suspicious of him. But suspicion eventually gives way to love.",
+  "directores": [
+    "Rouben Mamoulian"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602b"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Sidney",
+      "apellido": "Fox"
+    },
+    {
+      "nombre": "Bela",
+      "apellido": "Lugosi"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Danish",
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTExNDQ3MV5BMl5BanBnXkFtZTgwNTk0NDIwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Murders in the Rue Morgue",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Crimen",
+    "Horror",
+    "Misterio"
+  ],
+  "rating": "6.4",
+  "sinopsis": "In 19th Century Paris, the maniacal Dr. Mirakle abducts young women and injects them with ape blood in an attempt to prove ape-human kinship. He constantly meets failure as the abducted women die. Medical student Pierre Dupin discovers what Mirakle is doing too late to prevent the abduction of his girlfriend Camille. Now he desperately tries to enlist the help of the police to get her back.",
+  "directores": [
+    "Robert Florey"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602c"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Boris",
+      "apellido": "Karloff"
+    },
+    {
+      "nombre": "Zita",
+      "apellido": "Johann"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Arabic",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjEyNTIzNzcyMV5BMl5BanBnXkFtZTgwOTgwODY2MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Mummy",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Horror"
+  ],
+  "rating": "7.2",
+  "sinopsis": "In 1921 a field expedition in Egypt discovers the mummy of ancient Egyptian prince Im-Ho-Tep, who was condemned and buried alive for sacrilege. Also found in the tomb is the Scroll of Thoth, which can bring the dead back to life. One night a young member of the expedition reads the Scroll out loud, and then goes insane, realizing that he has brought Im-Ho-Tep back to life. Ten years later, disguised as a modern Egyptian, the mummy attempts to reunite with his lost love, an ancient princess who has been reincarnated into a beautiful young woman.",
+  "directores": [
+    "Karl Freund"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602d"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Harold",
+      "apellido": "Lloyd"
+    },
+    {
+      "nombre": "Constance",
+      "apellido": "Cummings"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzZkYzNlMjYtMzM2NC00MTk3LWE0YmMtZTg3Mjc5NTlmMzQ2L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Movie Crazy",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Romance"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Harold Hall, an accident prone young man with little or no acting ability, desperately wants to be in pictures. After a mix-up with his application photograph, he gets an offer to have a screen-test, and goes off to Hollywood. At the studio, he does everything wrong and causes all sorts of trouble. But he catches the fancy of a beautiful actress, and eventually the studio owner recognizes him as a comic genius.",
+  "directores": [
+    "Clyde Bruckman",
+    "Harold Lloyd"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602e"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Stan",
+      "apellido": "Laurel"
+    },
+    {
+      "nombre": "Oliver",
+      "apellido": "Hardy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjRhMjBiMTAtYmEzOC00ZDg1LWJmNzQtMDA2ZjlkMzk0OWM3XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Music Box",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Comedia",
+    "Cortometraje"
+  ],
+  "rating": "8.1",
+  "sinopsis": "The Laurel & Hardy Moving Co. have a challenging job on their hands (and backs): hauling a player piano up a monumental flight of stairs to Prof. von Schwarzenhoffen's house. Their task is complicated by a sassy nursemaid and, unbeknownst to them, the impatient Prof. von Schwarzenhoffen himself. But the biggest problem is the force of gravity, which repeatedly pulls the piano back down to the bottom of the stairs. Finally, the irate Professor explodes in fury to discover the \"mechanical blunderbuss\" in his home, not knowing it was a surprise birthday present from his wife.",
+  "directores": [
+    "James Parrott"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7602f"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Harry",
+      "apellido": "Baur"
+    },
+    {
+      "nombre": "Robert",
+      "apellido": "Lynen"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzZiOWVhNDgtOGJjYy00OWI5LThiMTMtYTZjYjIyYzU2MDJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI3OTIzOA@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Red Head",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama"
+  ],
+  "directores": [
+    "Julien Duvivier"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76030"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Clark",
+      "apellido": "Gable"
+    },
+    {
+      "nombre": "Jean",
+      "apellido": "Harlow"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BOWY4OWMxM2QtOTJmNi00NDJiLTk2MjQtZTJhNmY2MmZkMDgzXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Red Dust",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.4",
+  "sinopsis": "Conditions are spartan on Dennis Carson's Indochina rubber plantation during a dusty dry monsoon. The latest boat upriver brings Carson an unwelcome guest: Vantine, a floozy from Saigon, hoping to evade the police by a stay upcountry. But Carson, initially uninterested, soon succumbs to Vantine's ostentatious charms...until the arrival of surveyor Gary Willis, ill with malaria, and his refined but sensuous wife Barbara. Now the rains begin, and passion flows like water...",
+  "directores": [
+    "Victor Fleming"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76031"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Paul",
+      "apellido": "Muni"
+    },
+    {
+      "nombre": "Ann",
+      "apellido": "Dvorak"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmMxZTU2ZDUtM2Y1MS00ZWFmLWJlN2UtNzI0OTJiOTYzMTk3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Scarface",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Johnny Lovo rises to the head of the bootlegging crime syndicate on the south side of Chicago following the murder of former head, Big Louis Costillo. Johnny contracted Big Louis' bodyguard, Tony Camonte, to make the hit on his boss. Tony becomes Johnny's second in command. Johnny is not averse to killing anyone who gets in his and Johnny's way. As Tony is thinking bigger than Johnny and is not afraid of anyone or anything, Tony increasingly makes decisions on his own instead of following Johnny's orders, especially in not treading on the north side run by an Irish gang led by a man named O'Hara, of whom Johnny is afraid. Tony's murder spree increases, he taking out anyone who stands in his and Johnny's way of absolute control on the south side, and in Tony's view absolute control of the entire city. Tony's actions place an unspoken strain between Tony and Johnny to the point of the two knowing that they can't exist in their idealized world with the other. Tony's ultimate downfall may be one of two women in his life: Poppy, Johnny's girlfriend to who Tony is attracted; and Tony's eighteen year old sister, Cesca, who is self-professed to be older mentally than her years much to Tony's chagrin, he who will do anything to protect her innocence. Cesca ultimately comes to the realization that she is a lot more similar to her brother than she first imagined.",
+  "directores": [
+    "Howard Hawks",
+    "Richard Rosson"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76032"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Marlene",
+      "apellido": "Dietrich"
+    },
+    {
+      "nombre": "Clive",
+      "apellido": "Brook"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French",
+    "Cantonese",
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMDc3ODRlZDktY2M2MC00Y2UxLWI1MWMtODkyYjI1NzQyNjIwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Shanghai Express",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.5",
+  "sinopsis": "Many passengers on the Shanghai Express are more concerned that the notorious Shanghai Lil is on board than the fact that a civil war is going on that may make the trip take more than three days. The British Army doctor, Donald Harvey, knew Lil before she became a famous \"coaster.\" A fellow passenger defines a coaster as \"a woman who lives by her wits along the China coast.\" When Chinese guerillas stop the train, Dr. Harvey is selected as the hostage. Lil saves him, but can she make him believe that she really hasn't changed from the woman he loved five years before?",
+  "directores": [
+    "Josef von Sternberg"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76033"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Norma",
+      "apellido": "Shearer"
+    },
+    {
+      "nombre": "Fredric",
+      "apellido": "March"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNDAyZjgyOTctMmI0OC00NjBhLTk5OGItYWZmMDBjMTMzNjg0XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Smilin' Through",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7",
+  "sinopsis": "John has lead a solitary life for thirty years since the death of Moonyeen Clare. But now Owens, a close friend, insists that he care for his niece, Kathleen, orphaned when her parents were lost at sea. Kathleen is five, but the years pass and now she is a young woman who is the image of Moonyeen. Willy wants Kathleen for his wife, but Sparks fly when she meets Kenneth Wayne one dark and stormy night. John is horrified for it was Wayne's father who shot Moonyeen dead on her wedding day and John has never found him or forgiven the family. When Ken goes off to war, John forbids any marriage and Ken agrees, while Kathleen does not. When Ken returns four years later when the war is over, he is crippled. He conceals his condition and makes plans to leave for America.",
+  "directores": [
+    "Sidney Franklin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76034"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Johnny",
+      "apellido": "Weissmuller"
+    },
+    {
+      "nombre": "Neil",
+      "apellido": "Hamilton"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTVlMDAwMDQtMTEzMC00YjhlLWEyYTctNjMzN2M0NGI0MTEwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Tarzan the Ape Man",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Romance"
+  ],
+  "rating": "7.2",
+  "sinopsis": "James Parker and Harry Holt are on an expedition in Africa in search of the elephant burial grounds that will provide enough ivory to make them rich. Parker's beautiful young daughter Jane arrives unexpectedly to join them. Harry is obviously attracted to Jane and he does his best to help protect her from all the dangers that they experience in the jungle. Jane is terrified when Tarzan and his ape friends first abduct her, but when she returns to her father's expedition she has second thoughts about leaving Tarzan. After the expedition is captured by a tribe of violent dwarfs, Jane sends Cheetah to bring Tarzan to rescue them...",
+  "directores": [
+    "W.S. Van Dyke"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76035"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Edward G.",
+      "apellido": "Robinson"
+    },
+    {
+      "nombre": "Vivienne",
+      "apellido": "Osborne"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZWFjM2JmYjQtODY3YS00M2Q1LTliNjctYmJjOWI0NzUwYjg5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Two Seconds",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Drama",
+    "Suspenso"
+  ],
+  "rating": "6.9",
+  "sinopsis": "Allen claims he his being executed for the wrong murder. Flashbacks show him working with Clark as a riveter. When he makes a killing on the horses he meets Shirley and gets married. When Clark tells him Shirley is unfaithful they fight and Clark falls to his death. Later he finds that Clark was telling the truth.",
+  "directores": [
+    "Mervyn LeRoy"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76036"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Miriam",
+      "apellido": "Hopkins"
+    },
+    {
+      "nombre": "Kay",
+      "apellido": "Francis"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Italian",
+    "Russian",
+    "Spanish",
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2E5ODgyYmQtY2Q0ZS00N2MyLWJhYzktYTliMWEyOWM2OGNiXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Trouble in Paradise",
+  "tipo": "movie",
+  "ano": "1932",
+  "generos": [
+    "Comedia",
+    "Crimen",
+    "Romance"
+  ],
+  "rating": "8.2",
+  "sinopsis": "High class European thief Gaston Monescu meets his soul mate Lily, a pickpocket masquerading as a countess. The two join forces and come under the employ of Mme. Colet, the beautiful owner of the Colet perfume company. Gaston works as Mme. Colet's personal secretary under the alias Monsieur La Valle. Rumors start to fly as 'M. La Valle' steals Mme. Colet away from her other suitors. When the secret of his true identity catches up to him, Gaston is caught between the two beautiful women.",
+  "directores": [
+    "Ernst Lubitsch"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76037"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Barbara",
+      "apellido": "Stanwyck"
+    },
+    {
+      "nombre": "George",
+      "apellido": "Brent"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc1MDQ4MDkzNl5BMl5BanBnXkFtZTgwODY0NTgyMjE@._V1._CR13.883331298828125,29.533340454101562,308,445_SY132_CR1,0,89,132_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Baby Face",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Lilly (Baby Face) sleeps her way from basement speakeasy bartender, literally floor by floor, to the top floor of a New York office building. Bank sub-manager Jimmy McCoy finds her a job in the bank only to be cast aside as she hooks up with the bank's president. When he complains of not seeing her she says: \"I'm working so hard I have to go to bed early every night.\"",
+  "directores": [
+    "Alfred E. Green"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76038"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "4"
+  },
+  "actores": [
+    {
+      "nombre": "Diana",
+      "apellido": "Wynyard"
+    },
+    {
+      "nombre": "Clive",
+      "apellido": "Brook"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MjQyNDgxMl5BMl5BanBnXkFtZTgwMjgxMDE5MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Cavalcade",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama",
+    "Romance",
+    "Guerra"
+  ],
+  "rating": "6.1",
+  "sinopsis": "A cavalcade of English life from New Year's Eve 1899 until 1933 seen through the eyes of well-to-do Londoners Jane and Robert Marryot. Amongst events touching their family are the Boer War, the death of Queen Victoria, the sinking of the Titanic and the Great War.",
+  "directores": [
+    "Frank Lloyd"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76039"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "The Marx",
+      "apellido": "Brothers"
+    },
+    {
+      "nombre": "Groucho",
+      "apellido": "Marx"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYmYxZGU2NWYtNzQxZS00NmEyLWIzN2YtMDk5MWM0ODc5ZTE4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Duck Soup",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Guerra"
+  ],
+  "rating": "8",
+  "sinopsis": "The small state of Freedonia is in a financial mess, borrowing a huge sum of cash from wealthy widow Mrs. Teasdale. She insists on replacing the current president with crazy Rufus T. Firefly and mayhem erupts. To make matters worse, the neighboring state sends inept spies Chicolini and Pinky to obtain top secret information, creating even more chaos!",
+  "directores": [
+    "Leo McCarey"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603a"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Edgar",
+      "apellido": "Dearing"
+    },
+    {
+      "nombre": "Peter",
+      "apellido": "Freuchen"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzcyY2UyOTMtZGY1Ni00NjI3LThhNTAtNjBkZmJmOGNlZDc1XkEyXkFqcGdeQXVyODQ2NzAzMjY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Eskimo",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "7.1",
+  "sinopsis": "Mala leads a contented life as the best hunter in his Canadian Arctic tribe, providing meat, fish and birds with his great skill. When another tribe member returns from trading furs with the white men for items such as a gun and an iron needle, Mala's wife, Aba, urges him to make the 500-mile trek across the frozen tundra to do the same. After the long night of winter, Mala does go with his family to the white man's \"floating house\" in Tjarnak. The friendly captain makes trade for Mala's excellent furs, but upsets Mala when he insists that Aba sleep with him that night. \"He didn't even ask me!\" Mala complains. Afterwards, the captain suggests that Mala go whale hunting and promises not to touch his wife, so Mala agrees. But news of a successful catch spurs a celebration on board ship, and the captain has Aba forcibly removed from her tent, plied with liquor, and then he rapes her. In the morning, the still-drunk Aba staggers from the ship, but collapses in the snow, where she is mistaken for an animal by a hunter and shot and killed. When Mala returns from the whaling expedition, he learns that Aba \"has swallowed sleep.\" He is so enraged he harpoons the captain, packs up his dog sled team and leaves with the rest of his family. It takes some time to recover from his grief and take on two new wives including Iva, who has loved him all along. The newly formed Royal Canadian Mounted Police learns of the murder and dispatches two mounties to arrest Mala. Ironically, Mala finds them frozen in the snow, near death, and saves their lives reluctantly, since he now trusts no white man. But they convince him they are his friends and must go back with them or else they may starve. So he goes, leaving his family behind. At the RCMP base, Mala learns from a translator he may hang. With great effort, he slips out of his shackled wrist, injuring his hand, steals food and a dog sled team and heads back to his land. In the morning, the two mounties go after him.",
+  "directores": [
+    "W.S. Van Dyke"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603b"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "James",
+      "apellido": "Cagney"
+    },
+    {
+      "nombre": "Joan",
+      "apellido": "Blondell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MjA5NTY1Nl5BMl5BanBnXkFtZTgwNTQ1OTg5MTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "G",
+  "titulo": "Footlight Parade",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "7.8",
+  "sinopsis": "Chester Kent produces musical comedies on the stage. With the beginning of the talkies era he changes to producing short musical prologues for movies. This is stressful to him, because he always needs new units and his rival is stealing his ideas. He can get an contract with a producer if he is able to stage in three days three new prologues. In spite of great problems, he does it.",
+  "directores": [
+    "Lloyd Bacon"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603c"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Warner",
+      "apellido": "Baxter"
+    },
+    {
+      "nombre": "Bebe",
+      "apellido": "Daniels"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNDExNjQ3Ml5BMl5BanBnXkFtZTgwMjM2NDgzMTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "42nd Street",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Renowned Broadway producer/director Julian Marsh is hired to put together a new musical revue. It's being financed by Abner Dillon to provide a starring vehicle for his girlfriend, songstress Dorothy Brock. Marsh, who is quite ill, is a difficult task master working long hours and continually pushing the cast to do better. When Brock breaks her ankle one of the chorus girls, Peggy Sawyer, gets her big chance to be the star. She also finds romance along the way.",
+  "directores": [
+    "Lloyd Bacon"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603d"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Dolores del",
+      "apellido": "Rio"
+    },
+    {
+      "nombre": "Gene",
+      "apellido": "Raymond"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Portuguese"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BODRlOTEwMzctMTVlMS00NmU5LWI5ODktNzIxYzVjMDIwOTIzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Flying Down to Rio",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "6.7",
+  "sinopsis": "Aviator and band leader Roger Bond is forever getting his group fired for flirting with the lady guests. When he falls for Brazilian beauty Belinha de Rezende it appears to be for real, even though she is already engaged. His Yankee Clippers band is hired to open the new Hotel Atlèntico in Rio and Roger offers to fly Belinha part way home. After a mechanical breakdown and forced landing, Roger is confident and makes his move, but Belinha plays hard to get. She can't seem to decide between Roger and her fiance Jèlio. When performing the airborne production number to mark the Hotel's opening, Jèlio gets some intriguing ideas...",
+  "directores": [
+    "Thornton Freeland"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603e"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Paul",
+      "apellido": "Robeson"
+    },
+    {
+      "nombre": "Dudley",
+      "apellido": "Digges"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NzQ2ODY3Nl5BMl5BanBnXkFtZTgwNzIyMzQwMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Emperor Jones",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama"
+  ],
+  "rating": "6.5",
+  "sinopsis": "At a Baptist prayer meeting, the preacher leads a prayer for Brutus Jones, who is leaving to become a railway porter. Jones joins the congregation in a spiritual. Once on the train, Jeff, a porter, shows Jones the ropes. Jones secretly takes up with Jeff's girl, Undine. He makes some money in a deal with a rich businessman on the train. Jones proves to be a cunning manipulator and a good liar. In a crap game, Jones stabs Jeff over a pair of loaded dice. Now doing hard labour, Jones kills a white prison guard and escapes. Shovelling coal on a ship in the Caribbean, Jones swims to an island. He is brought before the island's ruler, where Smithers, a crooked white trader, buys his freedom. Jones schemes his way into a partnership in Smithers' business, then finally control of the entire island through a touch of witchcraft, or so it seems. Brutus declares himself to be The Emperor Jones... Smithers reports on the unrest that Jones' rule is causing. One morning, the palace is empty of servants. As rebel drums beat, Jones flees into the forest where he is haunted by visions from his past...",
+  "directores": [
+    "Dudley Murphy",
+    "William C. de Mille"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7603f"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Warren",
+      "apellido": "William"
+    },
+    {
+      "nombre": "Joan",
+      "apellido": "Blondell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMTQ4MzQwOF5BMl5BanBnXkFtZTgwMzA4NDE1MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Gold Diggers of 1933",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Musicalal"
+  ],
+  "rating": "8.1",
+  "sinopsis": "Chorus girls Polly, Carol and Trixie are ecstatic when they learn that Broadway producer Barney Hopkins is putting on a new show. He promises all of the girls parts in the new show and even hires their neighbor Brad Roberts, an unknown composer, to write some of the music. There's only one problem: he doesn't have the money to bankroll it all. That problem is solved when Brad turns out to be quite rich but he insists that he not perform. When opening night comes, the juvenile lead can't go on forcing Brad to take the stage. He's recognized of course and his upper crust family wants him to quit. When he refuses, they tell him to end his relationship with Polly or face having his income cut off. When Brad's snobbish brother Lawrence mistakes Carol for Polly, the girls decide to have a bit of fun and teach him a lesson.",
+  "directores": [
+    "Mervyn LeRoy"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76040"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Claude",
+      "apellido": "Rains"
+    },
+    {
+      "nombre": "Gloria",
+      "apellido": "Stuart"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYzMxOTI2MWUtMjFhNy00NzBiLThkMTItMmRiMDZkYWI5NDAzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Invisible Man",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama",
+    "Horror",
+    "Ciencia ficción"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Working in Dr. Cranley's laboratory, scientist Jack Griffin was always given the latitude to conduct some of his own experiments. His sudden departure, however, has Cranley's daughter Flora worried about him. Griffin has taken a room at the nearby Lion's Head Inn, hoping to reverse an experiment he conducted on himself that made him invisible. Unfortunately, the drug he used has also warped his mind, making him aggressive and dangerous. He's prepared to do whatever it takes to restore his appearance, and several will die in the process.",
+  "directores": [
+    "James Whale"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76041"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Fay",
+      "apellido": "Wray"
+    },
+    {
+      "nombre": "Robert",
+      "apellido": "Armstrong"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjI3MDk5NmQtNWQ0YS00MDY3LWI4MjItY2M4YTU4ZjU1NWNlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "King Kong",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "rating": "8",
+  "sinopsis": "Carl Denham needs to finish his movie and has the perfect location; Skull Island. But he still needs to find a leading lady. This 'soon-to-be-unfortunate' soul is Ann Darrow. No one knows what they will encounter on this island and why it is so mysterious, but once they reach it, they will soon find out. Living on this hidden island is a giant gorilla and this beast now has Ann in it's grasps. Carl and Ann's new love, Jack Driscoll must travel through the jungle looking for Kong and Ann, whilst avoiding all sorts of creatures and beasts.",
+  "directores": [
+    "Merian C. Cooper",
+    "Ernest B. Schoedsack"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76042"
+  },
+  "nominaciones": {
+    "cantidad": "3",
+    "ganadas": "4"
+  },
+  "actores": [
+    {
+      "nombre": "Katharine",
+      "apellido": "Hepburn"
+    },
+    {
+      "nombre": "Joan",
+      "apellido": "Bennett"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "German"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGVmNzc3ODYtYjJlYy00YmQ4LWE3NWQtZTlhYWRjYjI1MTg1XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Little Women",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Romance"
+  ],
+  "rating": "7.4",
+  "sinopsis": "Little Women is a \"coming of age\" drama tracing the lives of four sisters: Meg, Jo, Beth and Amy. During the American Civil War, the girls father is away serving as a minister to the troops. The family, headed by thier beloved Marmee, must struggle to make ends meet, with the help of their kind and wealthy neighbor, Mr. Laurence, and his high spirited grandson Laurie.",
+  "directores": [
+    "George Cukor"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76043"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Charles",
+      "apellido": "Laughton"
+    },
+    {
+      "nombre": "Robert",
+      "apellido": "Donat"
+    }
+  ],
+  "paises": [
+    "UK"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDFiZjBmNzItZmRkMi00ZmNmLTg0OTctOGFkZWI2NzRjN2M5XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Private Life of Henry VIII.",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Biografía",
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "7.3",
+  "sinopsis": "This movie tells the story of King Henry VIII and the last five of his six wives. Set almost entirely within the royal castle, it begins just before the death of his second wife (Anne Boleyn) and ends just after his sixth wedding (to Catherine or Katherine Parr).",
+  "directores": [
+    "Alexander Korda"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76044"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Greta",
+      "apellido": "Garbo"
+    },
+    {
+      "nombre": "John",
+      "apellido": "Gilbert"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Spanish"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIyMjg1ODk4OF5BMl5BanBnXkFtZTgwNDA0NzkxMjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Queen Christina",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Biografía",
+    "Drama",
+    "Historia"
+  ],
+  "rating": "7.9",
+  "sinopsis": "Queen Christina of Sweden is a dominant European ruler in the 17th century, and has never thought of romance. However, she accidentally and secretly falls in love with an emissary from Spain, even though a marriage between the two seems out of the question.",
+  "directores": [
+    "Rouben Mamoulian"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76045"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Mae",
+      "apellido": "West"
+    },
+    {
+      "nombre": "Cary",
+      "apellido": "Grant"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3NjEzMTAtMDY3ZS00MDQ5LWI2N2MtZjk4NTE2ZDIwMzU3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "She Done Him Wrong",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Historia"
+  ],
+  "rating": "6.5",
+  "sinopsis": "New York singer and nightclub owner Lady Lou has more men friends than you can imagine, unfortunately one of them is a vicious criminal who's escaped and is on the way to see \"his\" girl, not realizing she hasn't exactly been faithful in his absence. Help is at hand in the form of young Captain Cummings, a local temperance league leader, though.",
+  "directores": [
+    "Lowell Sherman"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76046"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Stan",
+      "apellido": "Laurel"
+    },
+    {
+      "nombre": "Oliver",
+      "apellido": "Hardy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1Mzk4NjEwMV5BMl5BanBnXkFtZTgwMjEzNTU3MzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Sons of the Desert",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "7.8",
+  "sinopsis": "So that he and Stan can sneak away to Chicago and attend the annual \"Sons of the Desert\" lodge convention, Ollie pretends to be sick, and gets a doctor (who turns out to be a veterinarian) to prescribe a long ocean voyage to Hawaii. Decked out in leis and strumming ukeleles, they return home only to learn that the ship supposedly carrying them has sunk. Their hastily- contrived tale of \"ship-hiking\" their way back cuts no ice with their wives, who've been at the movies watching a newsreel of the lodge's convention parade, starring... guess who?",
+  "directores": [
+    "William A. Seiter"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76047"
+  },
+  "nominaciones": {
+    "cantidad": "2",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Robert",
+      "apellido": "Armstrong"
+    },
+    {
+      "nombre": "Helen",
+      "apellido": "Mack"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNjY2ODEwN15BMl5BanBnXkFtZTgwNTI2OTE4MzE@._V1._CR52,50,1272,1948_SX178_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Son of Kong",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Fantasía"
+  ],
+  "rating": "5.8",
+  "sinopsis": "After the disastrous results of his last expedition, Carl Denham leaves New York aboard a ship to escape all the trouble. After a mutiny, he and a few companions are left behind on Skull island, where they meet a smaller relative of King Kong and make friends with him.",
+  "directores": [
+    "Ernest B. Schoedsack"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76048"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "4"
+  },
+  "actores": [
+    {
+      "nombre": "Janet",
+      "apellido": "Gaynor"
+    },
+    {
+      "nombre": "Will",
+      "apellido": "Rogers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWEwOWI5M2YtNmQwYi00MzI5LTllYjgtNTFiZDcwNGIwOGM3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "State Fair",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7",
+  "sinopsis": "The Frake family attend the Iowa State Fair. Father Abel enters his Hampshire boar, Blue Boy, in the hog contents. Mother Melissa enters the mincemeat competition. And their children, Margy and Wayne, find love with newspaper reporter Pat Gilbert and trapeze artist Emily Joyce. But will everyone return home safe and happy or will hearts be broken?",
+  "directores": [
+    "Henry King"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76049"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "2"
+  },
+  "actores": [
+    {
+      "nombre": "Billy",
+      "apellido": "Bletcher"
+    },
+    {
+      "nombre": "Pinto",
+      "apellido": "Colvig"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYjM0MzYyMjktZGU0NS00MmMxLTlmNWEtYmFmZjBjZDY4NzhmXkEyXkFqcGdeQXVyNjY1NTQ0NDg@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Three Little Pigs",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Animación",
+    "Musicalal",
+    "Familia"
+  ],
+  "rating": "7.6",
+  "sinopsis": "The two pigs building houses of hay and sticks scoff at their brother, building the brick house. But when the wolf comes around and blows their houses down (after trickery like dressing as a foundling sheep fails), they run to their brother's house. And throughout, they sing the classic song, \"Who's Afraid of the Big Bad Wolf?\".",
+  "directores": [
+    "Burt Gillett"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604a"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Frankie",
+      "apellido": "Darro"
+    },
+    {
+      "nombre": "Edwin",
+      "apellido": "Phillips"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NDQ1NDE4N15BMl5BanBnXkFtZTgwNzgxOTgwMzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Wild Boys of the Road",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Aventura",
+    "Drama"
+  ],
+  "rating": "7.5",
+  "sinopsis": "At the bottom of the depression, Tom's mother has been out of work for months when Ed's father loses his job. Not to burden their parents, the two high school sophomore's decide to hop the freights and look for work. Wherever they go, there are many other kids just like them, so Tom, Ed and now Sally stick together. They camp in places like 'Sewer City' as long as they can until the local authorities run them off. They travel all over the mid west and when they get to New York, Ed thinks that they may finally find work.",
+  "directores": [
+    "William A. Wellman"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604b"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Jean",
+      "apellido": "Dastè"
+    },
+    {
+      "nombre": "Robert",
+      "apellido": "Flon"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTAyY2YyZjUtOTBhYi00ZTE1LWJjZmQtODlmNzc2M2E5MGE1XkEyXkFqcGdeQXVyNjI5NTk0MzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Zero for Conduct",
+  "tipo": "movie",
+  "ano": "1933",
+  "generos": [
+    "Cortometraje",
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "7.5",
+  "sinopsis": "After the holidays, Caussat and Bruel are going back to the boarding school, where their life is sad, dull, as all prisoner's ones. But there is plot setting up for a revolt...",
+  "directores": [
+    "Jean Vigo"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604c"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "3"
+  },
+  "actores": [
+    {
+      "nombre": "Norma",
+      "apellido": "Shearer"
+    },
+    {
+      "nombre": "Fredric",
+      "apellido": "March"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ZDBkMzEtNWM4ZC00MDRjLWIwNDItZTNkYWZjOGE5MjYwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Barretts of Wimpole Street",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Biografía",
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.1",
+  "sinopsis": "In 1845 London, the Barrett family is ruled with an iron fist by its stern widowed patriarch, Edward Moulton-Barrett. His nine grown children are afraid of him more than they love him. One of his rules is that none of his children are allowed to marry, which does not sit well with youngest daughter Henrietta as she loves and wants to marry Captain Surtees Cook. Of the nine, the one exception is his daughter Elizabeth, who abides faithfully to her father's wishes. Elizabeth does not think too much about the non-marriage rule as she has an unknown chronic illness which has kept her bedridden. She feels her life will not be a long one. With her time, she writes poetry, which she shares by correspondence with another young poet, Robert Browning. Elizabeth's outlook on her life changes when she meets Mr. Browning for the first time, he who has fallen in love with her without even having met her. She, in return, falls in love with him after their meeting. With Mr. Browning's love and support, Elizabeth tries to get well and enjoy life, this all against the thoughts of her father, who physically and emotionally traps Elizabeth and by association all of his children, all in the name of protecting her and them in the name of God.",
+  "directores": [
+    "Sidney Franklin"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604d"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Boris",
+      "apellido": "Karloff"
+    },
+    {
+      "nombre": "Bela",
+      "apellido": "Lugosi"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "Latin",
+    "Hungarian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BNTkzZmMzZDEtNGVlNC00MDdlLThjZDctOTg2YzY2YjMxN2IxXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Black Cat",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Horror",
+    "Crimen",
+    "Aventura"
+  ],
+  "rating": "7.2",
+  "sinopsis": "Honeymooning in Hungary, Joan and Peter Allison share their train compartment with Dr. Vitus Verdegast, a courtly but tragic man who is returning to the remains of the town he defended before becoming a prisoner of war for fifteen years. When their hotel-bound bus crashes in a mountain storm and Joan is injured, the travellers seek refuge in the home, built fortress-like upon the site of a bloody battlefield, of famed architect Hjalmar Poelzig. There, cat-phobic Verdegast learns his wife's fate, grieves for his lost daughter, and must play a game of chess for Allison's life.",
+  "directores": [
+    "Edgar G. Ulmer"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604e"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Warner",
+      "apellido": "Baxter"
+    },
+    {
+      "nombre": "Myrna",
+      "apellido": "Loy"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTRiMzc5ZGItODYyZi00ZDUyLTgzNTYtN2VhNGJlMTUxYjE4XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Broadway Bill",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "rating": "6.8",
+  "sinopsis": "Tycoon J.L. Higgins controls his whole family, but one of his sons- in-law, Dan Brooks and his daughter Alice are fed up with that. Brooks quits his job as manager of J.L.'s paper box factory and devotes his life to his racing horse Broadway Bill, but his bank- roll is thin and the luck is against him, he is arrested because of $150 he owes somebody for horse food, but suddenly a planed fraud by somebody else seems to offer him a chance...",
+  "directores": [
+    "Frank Capra"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf7604f"
+  },
+  "nominaciones": {
+    "cantidad": "5",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Claudette",
+      "apellido": "Colbert"
+    },
+    {
+      "nombre": "Warren",
+      "apellido": "William"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjgzMTgwNTI1M15BMl5BanBnXkFtZTgwMTgxNjk3MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Cleopatra",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Biografía",
+    "Drama",
+    "Historia"
+  ],
+  "rating": "6.9",
+  "sinopsis": "In 48 BC, Cleopatra, facing palace revolt in her kingdom of Egypt, welcomes the arrival of Julius Caesar as a way of solidifying her power under Rome. When Caesar, whom she has led astray, is killed, she transfers her affections to Marc Antony and dazzles him on a barge full of DeMillean splendor. But the trick may not work a third time...",
+  "directores": [
+    "Cecil B. DeMille"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76050"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Robert",
+      "apellido": "Donat"
+    },
+    {
+      "nombre": "Elissa",
+      "apellido": "Landi"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM2OTIwMjUxOF5BMl5BanBnXkFtZTgwOTc0ODgwMzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Count of Monte Cristo",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "rating": "7.7",
+  "sinopsis": "Edmond Dantes is imprisoned in the Chateau d'If without trial, for carrying a message from Napoleon in exile on Elba. After being told that he died in prison, his fiancè Mercedes is forced to marry his rival Count Mondego. Twenty years later, Dantes escapes with the help of the Abbe Faria, who leaves him the treasure of Monte Cristo. Dantes, now called the Count of Monte Cristo, plans his revenge on the three who framed him.",
+  "directores": [
+    "Rowland V. Lee"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76051"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Fredric",
+      "apellido": "March"
+    },
+    {
+      "nombre": "Evelyn",
+      "apellido": "Venable"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNzAxOTMxOF5BMl5BanBnXkFtZTgwMzMzNzY2MjE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Death Takes a Holiday",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "rating": "7.2",
+  "sinopsis": "Death decides to take a holiday from his usual business to see what it is like to be a mortal. Posing as Prince Sirki, he spends 3 days with Duke Lambert and his guests at his dukal estate. Several of the women are attracted to the mysterious prince, but shy away from him when they sense his true nature. But Grazia, the beautiful young woman whom the Duke thought was to marry his son, loves him even when she knows who he is.",
+  "directores": [
+    "Mitchell Leisen"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76052"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "Joan",
+      "apellido": "Blondell"
+    },
+    {
+      "nombre": "Dick",
+      "apellido": "Powell"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BY2FmNDQ1ZjEtNDg3ZC00YjUyLWJjY2EtOTBhNGZiMjI2Njk5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Dames",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "7.2",
+  "sinopsis": "Multi-millionaire Ezra Ounce wants to start a campaign against 'filthy' forms of entertainment, like Broadway-Shows. He comes to his relatives families and makes them members of his morale-boosting campaign. But Jimmy, another relative is producing a show, starring Ezra's niece Barbara. But he had bad luck with his backer, this person has given him an invalid check. Another of his victims, the show-girl Mabel has the idea of blackmailing Horace, Barbara's father, whom she has met before in a slightly compromising situation to get the money.",
+  "directores": [
+    "Ray Enright",
+    "Busby Berkeley"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76053"
+  },
+  "nominaciones": {
+    "cantidad": "6",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Fred",
+      "apellido": "Astaire"
+    },
+    {
+      "nombre": "Ginger",
+      "apellido": "Rogers"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MjcxMjU0OV5BMl5BanBnXkFtZTgwODY0OTgxMTE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "The Gay Divorcee",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Comedia",
+    "Musicalal",
+    "Romance"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Mimi Glossop wants a divorce so her Aunt Hortense hires a professional to play the correspondent in apparent infidelity. American dancer Guy Holden meets Mimi while visiting Brightbourne (Brighton) and she thinks he is the correspondent. The plot is really an excuse for song and dance. The movie won three Academy nominations and the first Oscar for Best Song: \"The Continental\", a twenty-two minute production number.",
+  "directores": [
+    "Mark Sandrich"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76054"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "0"
+  },
+  "actores": [
+    {
+      "nombre": "Marie",
+      "apellido": "Bell"
+    },
+    {
+      "nombre": "Pierre",
+      "apellido": "Willm"
+    }
+  ],
+  "paises": [
+    "France"
+  ],
+  "idiomas": [
+    "French"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTQyOTkxMV5BMl5BanBnXkFtZTgwMDQ1NTA0MzE@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Le grand jeu",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.3",
+  "sinopsis": "Pierre (Pierre Richard-Willm), a young lawyer, has enormous debts due to his mistress Florence (Marie Bell), and her whims of luxury life. Pierre has gone too far and put the family firm in jeopardy. They ask him to expatriate. To avoid scandal, Pierre joins the Foreign Legion. In Morocco, near the desert, Pierre goes with his comrades of the Legion to a bar-restaurant-brothel, owned by a shady character, Mr. Clement (Charles Vanel). Clement lives more or less with Ms.Blanche (Franèoise Rosay) who is a fortune teller with cards, as a hobby. But Clement is also after his girls now and then. Pierre is still obsessed with Florence but he meets Irma (Marie Bell), one of Clement's girls, who is the double of Florence except for hair color. Irma has had an accident and has lost part of her memory at a certain point of her recent past, and Pierre slowly persuades himself she is Florence, but cannot remember it. Advised by Ms.Blanche, Irma finally accepts to act as if she was Florence because she is falling in love with Pierre. Near the end of his contract with the Legion, Pierre receives news from France. He has inherited a fortune. He asks Irma to come to France with him, and they make plans. But Clement tries to rape Irma and Pierre has to kill him.",
+  "directores": [
+    "Jacques Feyder"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76055"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "4"
+  },
+  "actores": [
+    {
+      "nombre": "Claudette",
+      "apellido": "Colbert"
+    },
+    {
+      "nombre": "Warren",
+      "apellido": "William"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZGExYWRjMWEtNWZkNC00MzMwLTkwMjEtNmIzYTlhMDMzYTZlXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "Imitation of Life",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "rating": "7.6",
+  "sinopsis": "Bea Pullman and her daughter Jessie have had a hard time making ends meet since Bea's husband died. Help comes in the form of Delilah Johnson, who agrees to work as Bea's housekeeper in exchange for a room for herself and her daughter Peola. Bea comes up with a plan to market Delilah's pancake recipe. The two soon become wealthy and as the years go on, their friendship deepens. Their relationships with their daughters, however, become strained. Ashamed of her mother, Peola seeks a new life by passing for white. Bea's love for her daughter is tested when she and Jessie fall for the same man.",
+  "directores": [
+    "John M. Stahl"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76056"
+  },
+  "nominaciones": {
+    "cantidad": "1",
+    "ganadas": "10"
+  },
+  "actores": [
+    {
+      "nombre": "Clark",
+      "apellido": "Gable"
+    },
+    {
+      "nombre": "Claudette",
+      "apellido": "Colbert"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmViYmM5OTYtNGQ4Ny00YjQyLThiNjEtYTE4MGZhZTNmZjcyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "It Happened One Night",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Comedia",
+    "Romance"
+  ],
+  "rating": "8.2",
+  "sinopsis": "Ellie Andrews has just tied the knot with society aviator King Westley when she is whisked away to her father's yacht and out of King's clutches. Ellie jumps ship and eventually winds up on a bus headed back to her husband. Reluctantly she must accept the help of out-of- work reporter Peter Warne. Actually, Warne doesn't give her any choice: either she sticks with him until he gets her back to her husband, or he'll blow the whistle on Ellie to her father. Either way, Peter gets what (he thinks!) he wants .... a really juicy newspaper story.",
+  "directores": [
+    "Frank Capra"
+  ]
+},{
+  "_id": {
+    "$oid": "6187e71133e0cdcd1bf76057"
+  },
+  "nominaciones": {
+    "cantidad": "0",
+    "ganadas": "1"
+  },
+  "actores": [
+    {
+      "nombre": "W.C.",
+      "apellido": "Fields"
+    },
+    {
+      "nombre": "Kathleen",
+      "apellido": "Howard"
+    }
+  ],
+  "paises": [
+    "USA"
+  ],
+  "idiomas": [
+    "English"
+  ],
+  "poster": "https://m.media-amazon.com/images/M/MV5BZmI2MGIwODgtNzQxOS00MzJlLWEyMTgtNTk3MjdlMmMzN2MxXkEyXkFqcGdeQXVyMzI5NDcxNzI@._V1_SY1000_SX677_AL_.jpg",
+  "clasificacion": "Sin clasificación",
+  "titulo": "It's a Gift",
+  "tipo": "movie",
+  "ano": "1934",
+  "generos": [
+    "Comedia"
+  ],
+  "rating": "7.5",
+  "sinopsis": "The owner of a general store (Harold Bisonette) is hounded by his status-anxious wife (\"That's 'Bee-soh-nay'\" and \"I have no maid you know\"). To get some sleep he goes out on the porch where he is tormented by a little boy from the floor above (Baby Dunk) and an insurance salesman down below (\"LaFong. Capital L, small a...\"). He uses an inheritance to buy an orange ranch through the mail, then drives off with his family for California. The orange grove consists of a withered tree, the ranch house is but a shack, and the car falls to pieces. But a racetrack operator wants the land, so all ends happily.",
+  "directores": [
+    "Norman Z. McLeod"
+  ]
+}]

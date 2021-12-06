@@ -1,0 +1,18 @@
+.divPelicula{
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+}
+
+.divPoster {
+    text-align: center;
+}
+
+.divPelicula img{
+    width: 55%;
+}
+
+.divTitulo{
+    text-align: center;
+}
