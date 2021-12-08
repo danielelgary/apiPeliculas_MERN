@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Resultados from "../componentes/Resultados";
+//import Resultados from "../componentes/Resultados";
 import * as UsuariosService from "../servicios/UsuariosService";
 import { useHistory } from "react-router";
 
@@ -46,18 +46,34 @@ export default function Login(){
                 <fieldset>
                     <legend>Iniciar Sesion</legend>
                     <form>
-                        <div>
-                            <label for="usuario">Usario: </label>
-                            <input type="text" id="usuario" name="usuario" value={usuario} onChange={handleChange}></input>
-                        </div>
-                        <div>
-                            <label for="clave">Contraseña: </label>
-                            <input type="password" id="clave" name="clave" value={clave} onChange={handleChange}></input>
-                        </div>
+                        <table>
+                            <tr>
+                                <td>
+                                    <label htmlFor="usuario">Usario: </label>
+                                </td>
+                                <td>
+                                    <input type="text" id="usuario" name="usuario" value={usuario} onChange={handleChange}></input>
+                                </td>
+                            </tr>
 
-                        <div>
-                            <button type="button" onClick={handleClick}>Iniciar Sesion</button>
-                        </div>
+                            <tr>
+                                <td>
+                                    <label htmlFor="clave">Contraseña: </label>
+                                </td>
+                                <td>
+                                    <input type="password" id="clave" name="clave" value={clave} onChange={handleChange}></input>
+                                </td>
+                            </tr>
+                            
+
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <button type="button" onClick={handleClick}>Iniciar Sesion</button>
+                                </td>
+                            </tr>
+                            
+                        </table>
 
                     </form>
                 </fieldset>
