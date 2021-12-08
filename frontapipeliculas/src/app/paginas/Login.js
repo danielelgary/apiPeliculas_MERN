@@ -3,7 +3,7 @@ import { useState } from "react";
 import * as UsuariosService from "../servicios/UsuariosService";
 import { useHistory } from "react-router";
 
-export default function Login(){
+export default function Login(props){
     const [usuario, setUsuario] = useState("");
     const [clave, setClave] = useState("");
     let history = useHistory();
@@ -33,8 +33,9 @@ export default function Login(){
                     //investigar setCookie
                     
                     localStorage.setItem("auth", JSON.stringify(datosUsuario));
-
+                    props.autenticado(datosUsuario);
                     history.push("/administrar");
+                    
                 }
             })
             .catch((error) => console.log(error));
@@ -47,6 +48,7 @@ export default function Login(){
                     <legend>Iniciar Sesion</legend>
                     <form>
                         <table>
+                            <tbody>         
                             <tr>
                                 <td>
                                     <label htmlFor="usuario">Usario: </label>
@@ -72,7 +74,7 @@ export default function Login(){
                                     <button type="button" onClick={handleClick}>Iniciar Sesion</button>
                                 </td>
                             </tr>
-                            
+                            </tbody>
                         </table>
 
                     </form>

@@ -33,10 +33,8 @@ function App() {
       <ComponenteClase />
       */}
       
-      <Header>
+      
         <Routes />
-
-      </Header>
     </>
   );
 }

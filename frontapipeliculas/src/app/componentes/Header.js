@@ -8,14 +8,28 @@ export default function Header(props){
 
     function handleClick(evento){
         evento.preventDefault();
-        history.push("/login");
-
+        if(evento.target.value === "iniciar"){
+            history.push("/login");
+        }
+        else{
+            localStorage.removeItem("auth");
+            props.autenticado(null);
+            history.push("/");
+        }
     }
 
     return (
         <>
             <header className="header"> 
-                <button type="button" onClick={handleClick}>Iniciar Sesion</button>
+                {
+                    props.usuario && //Es como decirle, si existe este, haga el que sigue
+                    <button type="button" onClick={handleClick} value="cerrar">Cerrar Sesion</button>
+                }
+                {
+                    !props.usuario &&
+                    <button type="button" onClick={handleClick} value="iniciar">Iniciar Sesion</button>
+
+                }
             </header>
             {props.children /* Para saber cual de los hijos renderizar */} 
         </>
