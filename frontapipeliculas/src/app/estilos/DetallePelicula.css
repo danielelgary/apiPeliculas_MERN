@@ -7,11 +7,20 @@
     flex-basis: 33%;
 }
 
-.DivDetalleDetalle{
-flex-basis: 25%;
+.DivDatosDetalle > *{
+    flex-basis: 25%;
 }
 
 .DivDatosDetalle{
     display: flex;
     justify-content: space-evenly;
+}
+
+.DivDetalleDetalle{
+    margin: 20px;
+}
+
+.DivPosterDetalle > img {
+    width: 100%;
+    object-fit: contain; /* Para que se ajuste a su etiqueta contenedora. */
 }

@@ -4,14 +4,13 @@ export default function DetalleNominaciones(props){
         <>
             <fieldset>
                 <legend>{props.titulo}</legend>
-                <ul>
-                    {props.datos && props.map((datos, idx) =>
-                        (
-                            <li key={1}>Cantidad: {props.datos.cantidad}</li>
-                        )
-                    )}
+                {props.datos && 
+                    <ul>
+                        <li key={1}>Cantidad: {props.datos.cantidad} </li>
+                        <li key={2}>Gandas: {props.datos.ganadas} </li>
+                    </ul>
+                }
 
-                </ul>
 
             </fieldset>
         </>

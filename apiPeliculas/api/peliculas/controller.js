@@ -36,7 +36,7 @@ peliculasController.get("/obtenerPeliculas", rutaProtegida, async function(reque
 });
 
 //Buscar una pelicula por el ID (pasado en los parametros)
-peliculasController.get("/obtenerPelicula/:id", rutaProtegida, async function(request, response){
+peliculasController.get("/obtenerPelicula/:id", async function(request, response){
 
     let id = request.params.id;
     let pelicula = await peliculasService.obtenerPelicula(id);

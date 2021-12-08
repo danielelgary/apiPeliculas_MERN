@@ -19,6 +19,7 @@ export default function DetallePelicula(){
                 .then(function(respuesta){
                     setPelicula(respuesta.data);
                 })
+                .catch((error) => console.log(error));
     },[id]);
     /*
         Que necesitamos para construir la interfaz?
@@ -43,7 +44,7 @@ export default function DetallePelicula(){
                     <div className="DivMainDetalle">
                         
                         <div className="DivPosterDetalle">
-                            <img alt="Poster" src="{pelicula.poster}"/>
+                            <img alt="Poster" src={pelicula.poster}/>
                         </div>
 
                         <div>

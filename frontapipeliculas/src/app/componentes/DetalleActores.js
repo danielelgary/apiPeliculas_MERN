@@ -5,9 +5,9 @@ export default function DetalleActores(props){
             <fieldset>
                 <legend>{props.titulo}</legend>
                 <ul>
-                    {props.datos && props.map((datos, idx) =>
+                    {props.datos && props.datos.map((datos, idx) =>
                         (
-                            <li key={idx}>{props.datos.name}</li>
+                            <li key={idx}>{datos.nombre} {datos.apellido}</li>
                         )
                     )}
                 </ul>
