@@ -38,10 +38,22 @@ const app = express();
     1. Puerto por el cual estara funcionando (generalmente en el rango de los 3000)
     2. Body parser para poder convertir el cuerpo en JSON
 */
-const puerto = process.env.PORT;
+const puerto = process.env.API_PORT;
 //Se puede pasar como parametro un objeto Json con algunas opciones de configuracion especifica
 app.use(cors());
-app.use(helmet());
+
+app.use(helmet({
+    contentSecurityPolicy: {
+        directives: {
+            ...helmet.contentSecurityPolicy.getDefaultDirectives(),
+            'script-src': ["'self'", 'https://apis.google.com'],
+            'style-src': ["'self'", "'unsafe-inline'", 'https://fonts.googleapis.com'],
+            'connect-src': ["'self'", 'https://accounts.google.com' ],
+            'img-src': ['https:', 'data:'],
+        },
+    },
+}));
+
 app.use(compression());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true})); //Para poder tomar el formato de formularios y convertirlo en JSON
@@ -95,7 +107,7 @@ app.use("/api/usuarios", usuariosController);
 const publicPath = path.resolve(__dirname, 'public');
 app.use(express.static(publicPath));
 app.get("/", function(request, response){
-    response.sendFile(path.join(__dirname, "./index.html"))
+    response.sendFile(path.join(__dirname , "./index.html"))
 })
 
 //Conectar devuelve una promesa, por lo que hay que saber como se resuelve (.then)
