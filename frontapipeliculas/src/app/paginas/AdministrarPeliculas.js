@@ -3,7 +3,9 @@ export default function AdministrarPeliculas(){
     
     return (
         <>
-            <h1>Administrar Peliculas</h1>
+            <div>
+                <h1>AdministrarPeliculas</h1>
+            </div>
         </>
     );
 }

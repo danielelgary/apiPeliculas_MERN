@@ -5,6 +5,7 @@ const morgan = require('morgan');
 const cors = require('cors');
 const helmet = require('helmet');
 const compression = require('compression');
+const path = require('path');//Permite manipular las rutas del servidor local y las rutas web
 
 
 //INSTANCIAS DE CONTROLADORES:
@@ -89,6 +90,13 @@ app.use(morgan(process.env.MORGAN_MODE));
 //a los Endpoints complementarios definidos en el controlador asignado
 app.use("/api/peliculas", peliculasController);
 app.use("/api/usuarios", usuariosController);
+
+//CONFIGURAR LA CARPETA PUBLICA
+const publicPath = path.resolve(__dirname, 'public');
+app.use(express.static(publicPath));
+app.get("/", function(request, response){
+    response.sendFile(path.join(__dirname, "./index.html"))
+})
 
 //Conectar devuelve una promesa, por lo que hay que saber como se resuelve (.then)
 conexionMongoDB.conectar()
